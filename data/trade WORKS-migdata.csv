@@ -1,0 +1,1387 @@
+year,importer1,importer2,flow1,flow2
+1985,Male' ,Male' ,25124,25124
+1985,Male' ,North Thiladhunmathi (HA),1527,59
+1985,Male' ,South Thiladhunmathi (HDh),1527,71
+1985,Male' ,North Miladhunmadulu (Sh),674,24
+1985,Male' ,South Miladhunmadulu (N),1009,53
+1985,Male' ,North Maalhosmadulu (R),1170,42
+1985,Male' ,South Maalhosmadulu (B),836,76
+1985,Male' ,Faadhippolhu (Lh),1015,67
+1985,Male' ,Male' Atoll (K),312,361
+1985,Male' ,North Ari Atoll (AA),711,66
+1985,Male' ,South Ari Atoll (ADh),0,0
+1985,Male' ,Felidhu Atoll (V),172,31
+1985,Male' ,Mulakatholhu (M),641,24
+1985,Male' ,North Nilandhe Atoll (F),274,10
+1985,Male' ,South Nilandhe Atoll (Dh),618,26
+1985,Male' ,Kolhumadulu (Th),1551,55
+1985,Male' ,Hadhdhunmathi (L),686,18
+1985,Male' ,North Huvadhu Atoll (GA),719,20
+1985,Male' ,South Huvadhu Atoll (GDh),1901,39
+1985,Male' ,Gnaviyani (Gn),612,15
+1985,Male' ,Addu (S),2654,64
+1985,North Thiladhunmathi (HA),North Thiladhunmathi (HA),9553,9553
+1985,North Thiladhunmathi (HA),South Thiladhunmathi (HDh),25,29
+1985,North Thiladhunmathi (HA),North Miladhunmadulu (Sh),17,3
+1985,North Thiladhunmathi (HA),South Miladhunmadulu (N),6,7
+1985,North Thiladhunmathi (HA),North Maalhosmadulu (R),4,1
+1985,North Thiladhunmathi (HA),South Maalhosmadulu (B),6,12
+1985,North Thiladhunmathi (HA),Faadhippolhu (Lh),12,43
+1985,North Thiladhunmathi (HA),Male' Atoll (K),1,236
+1985,North Thiladhunmathi (HA),North Ari Atoll (AA),8,27
+1985,North Thiladhunmathi (HA),South Ari Atoll (ADh),0,0
+1985,North Thiladhunmathi (HA),Felidhu Atoll (V),0,9
+1985,North Thiladhunmathi (HA),Mulakatholhu (M),6,16
+1985,North Thiladhunmathi (HA),North Nilandhe Atoll (F),1,7
+1985,North Thiladhunmathi (HA),South Nilandhe Atoll (Dh),5,3
+1985,North Thiladhunmathi (HA),Kolhumadulu (Th),12,15
+1985,North Thiladhunmathi (HA),Hadhdhunmathi (L),22,4
+1985,North Thiladhunmathi (HA),North Huvadhu Atoll (GA),12,1
+1985,North Thiladhunmathi (HA),South Huvadhu Atoll (GDh),15,4
+1985,North Thiladhunmathi (HA),Gnaviyani (Gn),7,1
+1985,North Thiladhunmathi (HA),Addu (S),19,8
+1985,South Thiladhunmathi (HDh),South Thiladhunmathi (HDh),10528,10528
+1985,South Thiladhunmathi (HDh),North Miladhunmadulu (Sh),34,37
+1985,South Thiladhunmathi (HDh),South Miladhunmadulu (N),9,19
+1985,South Thiladhunmathi (HDh),North Maalhosmadulu (R),1,5
+1985,South Thiladhunmathi (HDh),South Maalhosmadulu (B),1,31
+1985,South Thiladhunmathi (HDh),Faadhippolhu (Lh),1,28
+1985,South Thiladhunmathi (HDh),Male' Atoll (K),1,390
+1985,South Thiladhunmathi (HDh),North Ari Atoll (AA),0,68
+1985,South Thiladhunmathi (HDh),South Ari Atoll (ADh),0,0
+1985,South Thiladhunmathi (HDh),Felidhu Atoll (V),1,21
+1985,South Thiladhunmathi (HDh),Mulakatholhu (M),4,5
+1985,South Thiladhunmathi (HDh),North Nilandhe Atoll (F),2,3
+1985,South Thiladhunmathi (HDh),South Nilandhe Atoll (Dh),2,1
+1985,South Thiladhunmathi (HDh),Kolhumadulu (Th),5,33
+1985,South Thiladhunmathi (HDh),Hadhdhunmathi (L),4,4
+1985,South Thiladhunmathi (HDh),North Huvadhu Atoll (GA),10,6
+1985,South Thiladhunmathi (HDh),South Huvadhu Atoll (GDh),5,9
+1985,South Thiladhunmathi (HDh),Gnaviyani (Gn),6,6
+1985,South Thiladhunmathi (HDh),Addu (S),16,1
+1985,North Miladhunmadulu (Sh),North Miladhunmadulu (Sh),7280,7280
+1985,North Miladhunmadulu (Sh),South Miladhunmadulu (N),24,18
+1985,North Miladhunmadulu (Sh),North Maalhosmadulu (R),13,13
+1985,North Miladhunmadulu (Sh),South Maalhosmadulu (B),1,3
+1985,North Miladhunmadulu (Sh),Faadhippolhu (Lh),1,12
+1985,North Miladhunmadulu (Sh),Male' Atoll (K),1,189
+1985,North Miladhunmadulu (Sh),North Ari Atoll (AA),0,23
+1985,North Miladhunmadulu (Sh),South Ari Atoll (ADh),0,0
+1985,North Miladhunmadulu (Sh),Felidhu Atoll (V),1,4
+1985,North Miladhunmadulu (Sh),Mulakatholhu (M),4,2
+1985,North Miladhunmadulu (Sh),North Nilandhe Atoll (F),3,1
+1985,North Miladhunmadulu (Sh),South Nilandhe Atoll (Dh),9,1
+1985,North Miladhunmadulu (Sh),Kolhumadulu (Th),2,2
+1985,North Miladhunmadulu (Sh),Hadhdhunmathi (L),4,0
+1985,North Miladhunmadulu (Sh),North Huvadhu Atoll (GA),8,2
+1985,North Miladhunmadulu (Sh),South Huvadhu Atoll (GDh),7,2
+1985,North Miladhunmadulu (Sh),Gnaviyani (Gn),6,0
+1985,North Miladhunmadulu (Sh),Addu (S),16,0
+1985,South Miladhunmadulu (N),South Miladhunmadulu (N),6627,6627
+1985,South Miladhunmadulu (N),North Maalhosmadulu (R),4,19
+1985,South Miladhunmadulu (N),South Maalhosmadulu (B),3,2
+1985,South Miladhunmadulu (N),Faadhippolhu (Lh),11,86
+1985,South Miladhunmadulu (N),Male' Atoll (K),3,266
+1985,South Miladhunmadulu (N),North Ari Atoll (AA),3,44
+1985,South Miladhunmadulu (N),South Ari Atoll (ADh),0,0
+1985,South Miladhunmadulu (N),Felidhu Atoll (V),0,3
+1985,South Miladhunmadulu (N),Mulakatholhu (M),1,8
+1985,South Miladhunmadulu (N),North Nilandhe Atoll (F),0,5
+1985,South Miladhunmadulu (N),South Nilandhe Atoll (Dh),3,0
+1985,South Miladhunmadulu (N),Kolhumadulu (Th),4,48
+1985,South Miladhunmadulu (N),Hadhdhunmathi (L),11,6
+1985,South Miladhunmadulu (N),North Huvadhu Atoll (GA),10,1
+1985,South Miladhunmadulu (N),South Huvadhu Atoll (GDh),8,1
+1985,South Miladhunmadulu (N),Gnaviyani (Gn),2,0
+1985,South Miladhunmadulu (N),Addu (S),8,6
+1985,North Maalhosmadulu (R),North Maalhosmadulu (R),9160,9160
+1985,North Maalhosmadulu (R),South Maalhosmadulu (B),38,66
+1985,North Maalhosmadulu (R),Faadhippolhu (Lh),7,53
+1985,North Maalhosmadulu (R),Male' Atoll (K),3,143
+1985,North Maalhosmadulu (R),North Ari Atoll (AA),4,47
+1985,North Maalhosmadulu (R),South Ari Atoll (ADh),0,0
+1985,North Maalhosmadulu (R),Felidhu Atoll (V),1,10
+1985,North Maalhosmadulu (R),Mulakatholhu (M),3,8
+1985,North Maalhosmadulu (R),North Nilandhe Atoll (F),0,4
+1985,North Maalhosmadulu (R),South Nilandhe Atoll (Dh),9,2
+1985,North Maalhosmadulu (R),Kolhumadulu (Th),6,20
+1985,North Maalhosmadulu (R),Hadhdhunmathi (L),10,10
+1985,North Maalhosmadulu (R),North Huvadhu Atoll (GA),7,1
+1985,North Maalhosmadulu (R),South Huvadhu Atoll (GDh),16,1
+1985,North Maalhosmadulu (R),Gnaviyani (Gn),2,1
+1985,North Maalhosmadulu (R),Addu (S),12,0
+1985,South Maalhosmadulu (B),South Maalhosmadulu (B),6556,6556
+1985,South Maalhosmadulu (B),Faadhippolhu (Lh),14,17
+1985,South Maalhosmadulu (B),Male' Atoll (K),2,41
+1985,South Maalhosmadulu (B),North Ari Atoll (AA),57,24
+1985,South Maalhosmadulu (B),South Ari Atoll (ADh),0,0
+1985,South Maalhosmadulu (B),Felidhu Atoll (V),1,7
+1985,South Maalhosmadulu (B),Mulakatholhu (M),2,1
+1985,South Maalhosmadulu (B),North Nilandhe Atoll (F),6,3
+1985,South Maalhosmadulu (B),South Nilandhe Atoll (Dh),6,0
+1985,South Maalhosmadulu (B),Kolhumadulu (Th),15,6
+1985,South Maalhosmadulu (B),Hadhdhunmathi (L),8,0
+1985,South Maalhosmadulu (B),North Huvadhu Atoll (GA),4,0
+1985,South Maalhosmadulu (B),South Huvadhu Atoll (GDh),10,1
+1985,South Maalhosmadulu (B),Gnaviyani (Gn),3,0
+1985,South Maalhosmadulu (B),Addu (S),13,2
+1985,Faadhippolhu (Lh),Faadhippolhu (Lh),5976,5976
+1985,Faadhippolhu (Lh),Male' Atoll (K),17,76
+1985,Faadhippolhu (Lh),North Ari Atoll (AA),13,18
+1985,Faadhippolhu (Lh),South Ari Atoll (ADh),0,0
+1985,Faadhippolhu (Lh),Felidhu Atoll (V),1,17
+1985,Faadhippolhu (Lh),Mulakatholhu (M),4,3
+1985,Faadhippolhu (Lh),North Nilandhe Atoll (F),1,3
+1985,Faadhippolhu (Lh),South Nilandhe Atoll (Dh),1,1
+1985,Faadhippolhu (Lh),Kolhumadulu (Th),1,5
+1985,Faadhippolhu (Lh),Hadhdhunmathi (L),5,47
+1985,Faadhippolhu (Lh),North Huvadhu Atoll (GA),4,66
+1985,Faadhippolhu (Lh),South Huvadhu Atoll (GDh),7,6
+1985,Faadhippolhu (Lh),Gnaviyani (Gn),17,0
+1985,Faadhippolhu (Lh),Addu (S),8,16
+1985,Male' Atoll (K),Male' Atoll (K),5148,5148
+1985,Male' Atoll (K),North Ari Atoll (AA),111,6
+1985,Male' Atoll (K),South Ari Atoll (ADh),0,0
+1985,Male' Atoll (K),Felidhu Atoll (V),13,4
+1985,Male' Atoll (K),Mulakatholhu (M),41,6
+1985,Male' Atoll (K),North Nilandhe Atoll (F),27,0
+1985,Male' Atoll (K),South Nilandhe Atoll (Dh),33,0
+1985,Male' Atoll (K),Kolhumadulu (Th),56,5
+1985,Male' Atoll (K),Hadhdhunmathi (L),120,0
+1985,Male' Atoll (K),North Huvadhu Atoll (GA),79,3
+1985,Male' Atoll (K),South Huvadhu Atoll (GDh),163,0
+1985,Male' Atoll (K),Gnaviyani (Gn),241,1
+1985,Male' Atoll (K),Addu (S),732,2
+1985,North Ari Atoll (AA),North Ari Atoll (AA),7301,7301
+1985,North Ari Atoll (AA),South Ari Atoll (ADh),0,0
+1985,North Ari Atoll (AA),Felidhu Atoll (V),10,4
+1985,North Ari Atoll (AA),Mulakatholhu (M),6,2
+1985,North Ari Atoll (AA),North Nilandhe Atoll (F),33,6
+1985,North Ari Atoll (AA),South Nilandhe Atoll (Dh),3,6
+1985,North Ari Atoll (AA),Kolhumadulu (Th),19,0
+1985,North Ari Atoll (AA),Hadhdhunmathi (L),28,0
+1985,North Ari Atoll (AA),North Huvadhu Atoll (GA),6,2
+1985,North Ari Atoll (AA),South Huvadhu Atoll (GDh),17,1
+1985,North Ari Atoll (AA),Gnaviyani (Gn),10,2
+1985,North Ari Atoll (AA),Addu (S),64,1
+1985,South Ari Atoll (ADh),South Ari Atoll (ADh),0,0
+1985,South Ari Atoll (ADh),Felidhu Atoll (V),0,0
+1985,South Ari Atoll (ADh),Mulakatholhu (M),0,0
+1985,South Ari Atoll (ADh),North Nilandhe Atoll (F),0,0
+1985,South Ari Atoll (ADh),South Nilandhe Atoll (Dh),0,0
+1985,South Ari Atoll (ADh),Kolhumadulu (Th),0,0
+1985,South Ari Atoll (ADh),Hadhdhunmathi (L),0,0
+1985,South Ari Atoll (ADh),North Huvadhu Atoll (GA),0,0
+1985,South Ari Atoll (ADh),South Huvadhu Atoll (GDh),0,0
+1985,South Ari Atoll (ADh),Gnaviyani (Gn),0,0
+1985,South Ari Atoll (ADh),Addu (S),0,0
+1985,Felidhu Atoll (V),Felidhu Atoll (V),1226,1226
+1985,Felidhu Atoll (V),Mulakatholhu (M),42,2
+1985,Felidhu Atoll (V),North Nilandhe Atoll (F),20,0
+1985,Felidhu Atoll (V),South Nilandhe Atoll (Dh),9,3
+1985,Felidhu Atoll (V),Kolhumadulu (Th),1,4
+1985,Felidhu Atoll (V),Hadhdhunmathi (L),1,0
+1985,Felidhu Atoll (V),North Huvadhu Atoll (GA),1,1
+1985,Felidhu Atoll (V),South Huvadhu Atoll (GDh),1,0
+1985,Felidhu Atoll (V),Gnaviyani (Gn),5,0
+1985,Felidhu Atoll (V),Addu (S),1,0
+1985,Mulakatholhu (M),Mulakatholhu (M),3368,3368
+1985,Mulakatholhu (M),North Nilandhe Atoll (F),0,1
+1985,Mulakatholhu (M),South Nilandhe Atoll (Dh),5,2
+1985,Mulakatholhu (M),Kolhumadulu (Th),13,6
+1985,Mulakatholhu (M),Hadhdhunmathi (L),5,5
+1985,Mulakatholhu (M),North Huvadhu Atoll (GA),0,1
+1985,Mulakatholhu (M),South Huvadhu Atoll (GDh),0,3
+1985,Mulakatholhu (M),Gnaviyani (Gn),0,0
+1985,Mulakatholhu (M),Addu (S),3,2
+1985,North Nilandhe Atoll (F),North Nilandhe Atoll (F),2067,2067
+1985,North Nilandhe Atoll (F),South Nilandhe Atoll (Dh),4,4
+1985,North Nilandhe Atoll (F),Kolhumadulu (Th),0,8
+1985,North Nilandhe Atoll (F),Hadhdhunmathi (L),3,5
+1985,North Nilandhe Atoll (F),North Huvadhu Atoll (GA),3,0
+1985,North Nilandhe Atoll (F),South Huvadhu Atoll (GDh),1,2
+1985,North Nilandhe Atoll (F),Gnaviyani (Gn),0,0
+1985,North Nilandhe Atoll (F),Addu (S),0,1
+1985,South Nilandhe Atoll (Dh),South Nilandhe Atoll (Dh),3474,3474
+1985,South Nilandhe Atoll (Dh),Kolhumadulu (Th),11,2
+1985,South Nilandhe Atoll (Dh),Hadhdhunmathi (L),5,3
+1985,South Nilandhe Atoll (Dh),North Huvadhu Atoll (GA),2,1
+1985,South Nilandhe Atoll (Dh),South Huvadhu Atoll (GDh),1,0
+1985,South Nilandhe Atoll (Dh),Gnaviyani (Gn),1,1
+1985,South Nilandhe Atoll (Dh),Addu (S),2,0
+1985,Kolhumadulu (Th),Kolhumadulu (Th),32,32
+1985,Kolhumadulu (Th),Hadhdhunmathi (L),6679,7038
+1985,Kolhumadulu (Th),North Huvadhu Atoll (GA),1,8
+1985,Kolhumadulu (Th),South Huvadhu Atoll (GDh),2,2
+1985,Kolhumadulu (Th),Gnaviyani (Gn),1,1
+1985,Kolhumadulu (Th),Addu (S),0,2
+1985,Hadhdhunmathi (L),Hadhdhunmathi (L),29,29
+1985,Hadhdhunmathi (L),North Huvadhu Atoll (GA),4,3
+1985,Hadhdhunmathi (L),South Huvadhu Atoll (GDh),8,5
+1985,Hadhdhunmathi (L),Gnaviyani (Gn),1,1
+1985,Hadhdhunmathi (L),Addu (S),4,2
+1985,North Huvadhu Atoll (GA),North Huvadhu Atoll (GA),5797,5797
+1985,North Huvadhu Atoll (GA),South Huvadhu Atoll (GDh),38,49
+1985,North Huvadhu Atoll (GA),Gnaviyani (Gn),29,7
+1985,North Huvadhu Atoll (GA),Addu (S),33,37
+1985,South Huvadhu Atoll (GDh),South Huvadhu Atoll (GDh),8670,8670
+1985,South Huvadhu Atoll (GDh),Gnaviyani (Gn),7,13
+1985,South Huvadhu Atoll (GDh),Addu (S),58,97
+1985,Gnaviyani (Gn),Gnaviyani (Gn),4883,4883
+1985,Gnaviyani (Gn),Addu (S),25,111
+1985,Addu (S),Addu (S),14472,14472
+1990,Male' ,Male' ,28913,28913
+1990,Male' ,North Thiladhunmathi (HA),1684,81
+1990,Male' ,South Thiladhunmathi (HDh),1827,65
+1990,Male' ,North Miladhunmadulu (Sh),715,23
+1990,Male' ,South Miladhunmadulu (N),1122,40
+1990,Male' ,North Maalhosmadulu (R),1352,58
+1990,Male' ,South Maalhosmadulu (B),1227,69
+1990,Male' ,Faadhippolhu (Lh),1110,47
+1990,Male' ,Male' Atoll (K),376,275
+1990,Male' ,North Ari Atoll (AA),218,41
+1990,Male' ,South Ari Atoll (ADh),668,23
+1990,Male' ,Felidhu Atoll (V),185,32
+1990,Male' ,Mulakatholhu (M),775,21
+1990,Male' ,North Nilandhe Atoll (F),355,30
+1990,Male' ,South Nilandhe Atoll (Dh),639,13
+1990,Male' ,Kolhumadulu (Th),1931,51
+1990,Male' ,Hadhdhunmathi (L),703,39
+1990,Male' ,North Huvadhu Atoll (GA),943,21
+1990,Male' ,South Huvadhu Atoll (GDh),2455,49
+1990,Male' ,Gnaviyani (Gn),691,26
+1990,Male' ,Addu (S),4236,47
+1990,North Thiladhunmathi (HA),North Thiladhunmathi (HA),11680,11680
+1990,North Thiladhunmathi (HA),South Thiladhunmathi (HDh),47,33
+1990,North Thiladhunmathi (HA),North Miladhunmadulu (Sh),7,7
+1990,North Thiladhunmathi (HA),South Miladhunmadulu (N),12,23
+1990,North Thiladhunmathi (HA),North Maalhosmadulu (R),18,11
+1990,North Thiladhunmathi (HA),South Maalhosmadulu (B),7,10
+1990,North Thiladhunmathi (HA),Faadhippolhu (Lh),35,19
+1990,North Thiladhunmathi (HA),Male' Atoll (K),4,257
+1990,North Thiladhunmathi (HA),North Ari Atoll (AA),1,20
+1990,North Thiladhunmathi (HA),South Ari Atoll (ADh),0,13
+1990,North Thiladhunmathi (HA),Felidhu Atoll (V),1,9
+1990,North Thiladhunmathi (HA),Mulakatholhu (M),21,7
+1990,North Thiladhunmathi (HA),North Nilandhe Atoll (F),1,10
+1990,North Thiladhunmathi (HA),South Nilandhe Atoll (Dh),6,6
+1990,North Thiladhunmathi (HA),Kolhumadulu (Th),16,14
+1990,North Thiladhunmathi (HA),Hadhdhunmathi (L),11,10
+1990,North Thiladhunmathi (HA),North Huvadhu Atoll (GA),10,8
+1990,North Thiladhunmathi (HA),South Huvadhu Atoll (GDh),13,9
+1990,North Thiladhunmathi (HA),Gnaviyani (Gn),5,3
+1990,North Thiladhunmathi (HA),Addu (S),14,6
+1990,South Thiladhunmathi (HDh),South Thiladhunmathi (HDh),12635,12635
+1990,South Thiladhunmathi (HDh),North Miladhunmadulu (Sh),48,16
+1990,South Thiladhunmathi (HDh),South Miladhunmadulu (N),7,4
+1990,South Thiladhunmathi (HDh),North Maalhosmadulu (R),3,9
+1990,South Thiladhunmathi (HDh),South Maalhosmadulu (B),3,7
+1990,South Thiladhunmathi (HDh),Faadhippolhu (Lh),4,19
+1990,South Thiladhunmathi (HDh),Male' Atoll (K),2,428
+1990,South Thiladhunmathi (HDh),North Ari Atoll (AA),0,82
+1990,South Thiladhunmathi (HDh),South Ari Atoll (ADh),5,12
+1990,South Thiladhunmathi (HDh),Felidhu Atoll (V),0,13
+1990,South Thiladhunmathi (HDh),Mulakatholhu (M),4,6
+1990,South Thiladhunmathi (HDh),North Nilandhe Atoll (F),3,7
+1990,South Thiladhunmathi (HDh),South Nilandhe Atoll (Dh),0,2
+1990,South Thiladhunmathi (HDh),Kolhumadulu (Th),3,5
+1990,South Thiladhunmathi (HDh),Hadhdhunmathi (L),10,7
+1990,South Thiladhunmathi (HDh),North Huvadhu Atoll (GA),8,5
+1990,South Thiladhunmathi (HDh),South Huvadhu Atoll (GDh),10,4
+1990,South Thiladhunmathi (HDh),Gnaviyani (Gn),3,3
+1990,South Thiladhunmathi (HDh),Addu (S),15,3
+1990,North Miladhunmadulu (Sh),North Miladhunmadulu (Sh),8877,8877
+1990,North Miladhunmadulu (Sh),South Miladhunmadulu (N),17,24
+1990,North Miladhunmadulu (Sh),North Maalhosmadulu (R),18,27
+1990,North Miladhunmadulu (Sh),South Maalhosmadulu (B),10,3
+1990,North Miladhunmadulu (Sh),Faadhippolhu (Lh),3,23
+1990,North Miladhunmadulu (Sh),Male' Atoll (K),0,204
+1990,North Miladhunmadulu (Sh),North Ari Atoll (AA),1,26
+1990,North Miladhunmadulu (Sh),South Ari Atoll (ADh),0,17
+1990,North Miladhunmadulu (Sh),Felidhu Atoll (V),0,5
+1990,North Miladhunmadulu (Sh),Mulakatholhu (M),0,9
+1990,North Miladhunmadulu (Sh),North Nilandhe Atoll (F),0,3
+1990,North Miladhunmadulu (Sh),South Nilandhe Atoll (Dh),2,2
+1990,North Miladhunmadulu (Sh),Kolhumadulu (Th),3,0
+1990,North Miladhunmadulu (Sh),Hadhdhunmathi (L),10,1
+1990,North Miladhunmadulu (Sh),North Huvadhu Atoll (GA),6,0
+1990,North Miladhunmadulu (Sh),South Huvadhu Atoll (GDh),6,2
+1990,North Miladhunmadulu (Sh),Gnaviyani (Gn),1,0
+1990,North Miladhunmadulu (Sh),Addu (S),13,2
+1990,South Miladhunmadulu (N),South Miladhunmadulu (N),8165,8165
+1990,South Miladhunmadulu (N),North Maalhosmadulu (R),61,20
+1990,South Miladhunmadulu (N),South Maalhosmadulu (B),2,5
+1990,South Miladhunmadulu (N),Faadhippolhu (Lh),21,188
+1990,South Miladhunmadulu (N),Male' Atoll (K),2,263
+1990,South Miladhunmadulu (N),North Ari Atoll (AA),0,24
+1990,South Miladhunmadulu (N),South Ari Atoll (ADh),5,15
+1990,South Miladhunmadulu (N),Felidhu Atoll (V),0,13
+1990,South Miladhunmadulu (N),Mulakatholhu (M),5,6
+1990,South Miladhunmadulu (N),North Nilandhe Atoll (F),0,5
+1990,South Miladhunmadulu (N),South Nilandhe Atoll (Dh),1,3
+1990,South Miladhunmadulu (N),Kolhumadulu (Th),13,13
+1990,South Miladhunmadulu (N),Hadhdhunmathi (L),1,7
+1990,South Miladhunmadulu (N),North Huvadhu Atoll (GA),11,8
+1990,South Miladhunmadulu (N),South Huvadhu Atoll (GDh),19,8
+1990,South Miladhunmadulu (N),Gnaviyani (Gn),5,0
+1990,South Miladhunmadulu (N),Addu (S),10,11
+1990,North Maalhosmadulu (R),North Maalhosmadulu (R),11073,11073
+1990,North Maalhosmadulu (R),South Maalhosmadulu (B),13,84
+1990,North Maalhosmadulu (R),Faadhippolhu (Lh),11,151
+1990,North Maalhosmadulu (R),Male' Atoll (K),7,176
+1990,North Maalhosmadulu (R),North Ari Atoll (AA),1,42
+1990,North Maalhosmadulu (R),South Ari Atoll (ADh),4,7
+1990,North Maalhosmadulu (R),Felidhu Atoll (V),1,7
+1990,North Maalhosmadulu (R),Mulakatholhu (M),6,12
+1990,North Maalhosmadulu (R),North Nilandhe Atoll (F),1,0
+1990,North Maalhosmadulu (R),South Nilandhe Atoll (Dh),4,0
+1990,North Maalhosmadulu (R),Kolhumadulu (Th),15,17
+1990,North Maalhosmadulu (R),Hadhdhunmathi (L),5,6
+1990,North Maalhosmadulu (R),North Huvadhu Atoll (GA),6,2
+1990,North Maalhosmadulu (R),South Huvadhu Atoll (GDh),8,13
+1990,North Maalhosmadulu (R),Gnaviyani (Gn),0,1
+1990,North Maalhosmadulu (R),Addu (S),9,3
+1990,South Maalhosmadulu (B),South Maalhosmadulu (B),7405,7405
+1990,South Maalhosmadulu (B),Faadhippolhu (Lh),14,52
+1990,South Maalhosmadulu (B),Male' Atoll (K),1,116
+1990,South Maalhosmadulu (B),North Ari Atoll (AA),15,40
+1990,South Maalhosmadulu (B),South Ari Atoll (ADh),6,6
+1990,South Maalhosmadulu (B),Felidhu Atoll (V),2,3
+1990,South Maalhosmadulu (B),Mulakatholhu (M),3,7
+1990,South Maalhosmadulu (B),North Nilandhe Atoll (F),4,2
+1990,South Maalhosmadulu (B),South Nilandhe Atoll (Dh),7,2
+1990,South Maalhosmadulu (B),Kolhumadulu (Th),7,7
+1990,South Maalhosmadulu (B),Hadhdhunmathi (L),8,3
+1990,South Maalhosmadulu (B),North Huvadhu Atoll (GA),6,2
+1990,South Maalhosmadulu (B),South Huvadhu Atoll (GDh),10,3
+1990,South Maalhosmadulu (B),Gnaviyani (Gn),8,7
+1990,South Maalhosmadulu (B),Addu (S),13,3
+1990,Faadhippolhu (Lh),Faadhippolhu (Lh),7097,7097
+1990,Faadhippolhu (Lh),Male' Atoll (K),24,50
+1990,Faadhippolhu (Lh),North Ari Atoll (AA),4,19
+1990,Faadhippolhu (Lh),South Ari Atoll (ADh),0,14
+1990,Faadhippolhu (Lh),Felidhu Atoll (V),2,9
+1990,Faadhippolhu (Lh),Mulakatholhu (M),3,13
+1990,Faadhippolhu (Lh),North Nilandhe Atoll (F),0,0
+1990,Faadhippolhu (Lh),South Nilandhe Atoll (Dh),2,2
+1990,Faadhippolhu (Lh),Kolhumadulu (Th),6,8
+1990,Faadhippolhu (Lh),Hadhdhunmathi (L),3,39
+1990,Faadhippolhu (Lh),North Huvadhu Atoll (GA),11,21
+1990,Faadhippolhu (Lh),South Huvadhu Atoll (GDh),18,26
+1990,Faadhippolhu (Lh),Gnaviyani (Gn),9,8
+1990,Faadhippolhu (Lh),Addu (S),36,0
+1990,Male' Atoll (K),Male' Atoll (K),6295,6295
+1990,Male' Atoll (K),North Ari Atoll (AA),16,8
+1990,Male' Atoll (K),South Ari Atoll (ADh),65,14
+1990,Male' Atoll (K),Felidhu Atoll (V),23,5
+1990,Male' Atoll (K),Mulakatholhu (M),41,7
+1990,Male' Atoll (K),North Nilandhe Atoll (F),46,5
+1990,Male' Atoll (K),South Nilandhe Atoll (Dh),41,2
+1990,Male' Atoll (K),Kolhumadulu (Th),102,3
+1990,Male' Atoll (K),Hadhdhunmathi (L),60,1
+1990,Male' Atoll (K),North Huvadhu Atoll (GA),88,7
+1990,Male' Atoll (K),South Huvadhu Atoll (GDh),151,0
+1990,Male' Atoll (K),Gnaviyani (Gn),179,1
+1990,Male' Atoll (K),Addu (S),1217,0
+1990,North Ari Atoll (AA),North Ari Atoll (AA),3955,3955
+1990,North Ari Atoll (AA),South Ari Atoll (ADh),87,15
+1990,North Ari Atoll (AA),Felidhu Atoll (V),1,3
+1990,North Ari Atoll (AA),Mulakatholhu (M),6,0
+1990,North Ari Atoll (AA),North Nilandhe Atoll (F),12,4
+1990,North Ari Atoll (AA),South Nilandhe Atoll (Dh),6,3
+1990,North Ari Atoll (AA),Kolhumadulu (Th),11,0
+1990,North Ari Atoll (AA),Hadhdhunmathi (L),17,0
+1990,North Ari Atoll (AA),North Huvadhu Atoll (GA),6,0
+1990,North Ari Atoll (AA),South Huvadhu Atoll (GDh),15,0
+1990,North Ari Atoll (AA),Gnaviyani (Gn),45,1
+1990,North Ari Atoll (AA),Addu (S),163,0
+1990,South Ari Atoll (ADh),South Ari Atoll (ADh),4891,4891
+1990,South Ari Atoll (ADh),Felidhu Atoll (V),3,7
+1990,South Ari Atoll (ADh),Mulakatholhu (M),1,0
+1990,South Ari Atoll (ADh),North Nilandhe Atoll (F),1,3
+1990,South Ari Atoll (ADh),South Nilandhe Atoll (Dh),11,2
+1990,South Ari Atoll (ADh),Kolhumadulu (Th),14,0
+1990,South Ari Atoll (ADh),Hadhdhunmathi (L),2,18
+1990,South Ari Atoll (ADh),North Huvadhu Atoll (GA),3,1
+1990,South Ari Atoll (ADh),South Huvadhu Atoll (GDh),13,2
+1990,South Ari Atoll (ADh),Gnaviyani (Gn),4,1
+1990,South Ari Atoll (ADh),Addu (S),75,0
+1990,Felidhu Atoll (V),Felidhu Atoll (V),1450,1450
+1990,Felidhu Atoll (V),Mulakatholhu (M),26,9
+1990,Felidhu Atoll (V),North Nilandhe Atoll (F),41,1
+1990,Felidhu Atoll (V),South Nilandhe Atoll (Dh),46,4
+1990,Felidhu Atoll (V),Kolhumadulu (Th),8,1
+1990,Felidhu Atoll (V),Hadhdhunmathi (L),3,0
+1990,Felidhu Atoll (V),North Huvadhu Atoll (GA),1,4
+1990,Felidhu Atoll (V),South Huvadhu Atoll (GDh),1,5
+1990,Felidhu Atoll (V),Gnaviyani (Gn),0,0
+1990,Felidhu Atoll (V),Addu (S),13,0
+1990,Mulakatholhu (M),Mulakatholhu (M),4031,4031
+1990,Mulakatholhu (M),North Nilandhe Atoll (F),9,2
+1990,Mulakatholhu (M),South Nilandhe Atoll (Dh),12,8
+1990,Mulakatholhu (M),Kolhumadulu (Th),15,9
+1990,Mulakatholhu (M),Hadhdhunmathi (L),8,3
+1990,Mulakatholhu (M),North Huvadhu Atoll (GA),1,3
+1990,Mulakatholhu (M),South Huvadhu Atoll (GDh),5,7
+1990,Mulakatholhu (M),Gnaviyani (Gn),1,2
+1990,Mulakatholhu (M),Addu (S),1,5
+1990,North Nilandhe Atoll (F),North Nilandhe Atoll (F),2516,2516
+1990,North Nilandhe Atoll (F),South Nilandhe Atoll (Dh),7,12
+1990,North Nilandhe Atoll (F),Kolhumadulu (Th),2,7
+1990,North Nilandhe Atoll (F),Hadhdhunmathi (L),4,0
+1990,North Nilandhe Atoll (F),North Huvadhu Atoll (GA),2,0
+1990,North Nilandhe Atoll (F),South Huvadhu Atoll (GDh),2,4
+1990,North Nilandhe Atoll (F),Gnaviyani (Gn),0,1
+1990,North Nilandhe Atoll (F),Addu (S),4,2
+1990,South Nilandhe Atoll (Dh),South Nilandhe Atoll (Dh),4120,4120
+1990,South Nilandhe Atoll (Dh),Kolhumadulu (Th),2,5
+1990,South Nilandhe Atoll (Dh),Hadhdhunmathi (L),0,7
+1990,South Nilandhe Atoll (Dh),North Huvadhu Atoll (GA),1,1
+1990,South Nilandhe Atoll (Dh),South Huvadhu Atoll (GDh),5,5
+1990,South Nilandhe Atoll (Dh),Gnaviyani (Gn),0,0
+1990,South Nilandhe Atoll (Dh),Addu (S),2,0
+1990,Kolhumadulu (Th),Kolhumadulu (Th),7980,7980
+1990,Kolhumadulu (Th),Hadhdhunmathi (L),48,37
+1990,Kolhumadulu (Th),North Huvadhu Atoll (GA),0,6
+1990,Kolhumadulu (Th),South Huvadhu Atoll (GDh),1,8
+1990,Kolhumadulu (Th),Gnaviyani (Gn),1,3
+1990,Kolhumadulu (Th),Addu (S),5,7
+1990,Hadhdhunmathi (L),Hadhdhunmathi (L),8878,8878
+1990,Hadhdhunmathi (L),North Huvadhu Atoll (GA),4,9
+1990,Hadhdhunmathi (L),South Huvadhu Atoll (GDh),19,18
+1990,Hadhdhunmathi (L),Gnaviyani (Gn),4,2
+1990,Hadhdhunmathi (L),Addu (S),6,3
+1990,North Huvadhu Atoll (GA),North Huvadhu Atoll (GA),7063,7063
+1990,North Huvadhu Atoll (GA),South Huvadhu Atoll (GDh),86,77
+1990,North Huvadhu Atoll (GA),Gnaviyani (Gn),15,10
+1990,North Huvadhu Atoll (GA),Addu (S),24,35
+1990,South Huvadhu Atoll (GDh),South Huvadhu Atoll (GDh),10102,10102
+1990,South Huvadhu Atoll (GDh),Gnaviyani (Gn),9,28
+1990,South Huvadhu Atoll (GDh),Addu (S),48,59
+1990,Gnaviyani (Gn),Gnaviyani (Gn),5996,5996
+1990,Gnaviyani (Gn),Addu (S),54,76
+1990,Addu (S),Addu (S),14860,14860
+1995,Male' ,Male' ,33399,33399
+1995,Male' ,North Thiladhunmathi (HA),1998,68
+1995,Male' ,South Thiladhunmathi (HDh),1928,67
+1995,Male' ,North Miladhunmadulu (Sh),904,41
+1995,Male' ,South Miladhunmadulu (N),1081,50
+1995,Male' ,North Maalhosmadulu (R),1743,81
+1995,Male' ,South Maalhosmadulu (B),1491,77
+1995,Male' ,Faadhippolhu (Lh),1262,39
+1995,Male' ,Male' Atoll (K),536,233
+1995,Male' ,North Ari Atoll (AA),336,45
+1995,Male' ,South Ari Atoll (ADh),680,61
+1995,Male' ,Felidhu Atoll (V),212,11
+1995,Male' ,Mulakatholhu (M),751,31
+1995,Male' ,North Nilandhe Atoll (F),418,12
+1995,Male' ,South Nilandhe Atoll (Dh),768,21
+1995,Male' ,Kolhumadulu (Th),2215,64
+1995,Male' ,Hadhdhunmathi (L),1075,48
+1995,Male' ,North Huvadhu Atoll (GA),1222,33
+1995,Male' ,South Huvadhu Atoll (GDh),2918,52
+1995,Male' ,Gnaviyani (Gn),825,42
+1995,Male' ,Addu (S),4423,108
+1995,North Thiladhunmathi (HA),North Thiladhunmathi (HA),13255,13255
+1995,North Thiladhunmathi (HA),South Thiladhunmathi (HDh),64,41
+1995,North Thiladhunmathi (HA),North Miladhunmadulu (Sh),18,6
+1995,North Thiladhunmathi (HA),South Miladhunmadulu (N),87,33
+1995,North Thiladhunmathi (HA),North Maalhosmadulu (R),9,8
+1995,North Thiladhunmathi (HA),South Maalhosmadulu (B),10,15
+1995,North Thiladhunmathi (HA),Faadhippolhu (Lh),15,20
+1995,North Thiladhunmathi (HA),Male' Atoll (K),17,338
+1995,North Thiladhunmathi (HA),North Ari Atoll (AA),1,52
+1995,North Thiladhunmathi (HA),South Ari Atoll (ADh),0,32
+1995,North Thiladhunmathi (HA),Felidhu Atoll (V),1,10
+1995,North Thiladhunmathi (HA),Mulakatholhu (M),4,8
+1995,North Thiladhunmathi (HA),North Nilandhe Atoll (F),1,11
+1995,North Thiladhunmathi (HA),South Nilandhe Atoll (Dh),3,7
+1995,North Thiladhunmathi (HA),Kolhumadulu (Th),12,15
+1995,North Thiladhunmathi (HA),Hadhdhunmathi (L),14,9
+1995,North Thiladhunmathi (HA),North Huvadhu Atoll (GA),6,5
+1995,North Thiladhunmathi (HA),South Huvadhu Atoll (GDh),19,16
+1995,North Thiladhunmathi (HA),Gnaviyani (Gn),3,2
+1995,North Thiladhunmathi (HA),Addu (S),14,12
+1995,South Thiladhunmathi (HDh),South Thiladhunmathi (HDh),15043,15043
+1995,South Thiladhunmathi (HDh),North Miladhunmadulu (Sh),45,32
+1995,South Thiladhunmathi (HDh),South Miladhunmadulu (N),13,14
+1995,South Thiladhunmathi (HDh),North Maalhosmadulu (R),16,6
+1995,South Thiladhunmathi (HDh),South Maalhosmadulu (B),8,9
+1995,South Thiladhunmathi (HDh),Faadhippolhu (Lh),8,18
+1995,South Thiladhunmathi (HDh),Male' Atoll (K),0,419
+1995,South Thiladhunmathi (HDh),North Ari Atoll (AA),0,101
+1995,South Thiladhunmathi (HDh),South Ari Atoll (ADh),3,50
+1995,South Thiladhunmathi (HDh),Felidhu Atoll (V),3,4
+1995,South Thiladhunmathi (HDh),Mulakatholhu (M),6,10
+1995,South Thiladhunmathi (HDh),North Nilandhe Atoll (F),1,5
+1995,South Thiladhunmathi (HDh),South Nilandhe Atoll (Dh),3,3
+1995,South Thiladhunmathi (HDh),Kolhumadulu (Th),8,9
+1995,South Thiladhunmathi (HDh),Hadhdhunmathi (L),5,16
+1995,South Thiladhunmathi (HDh),North Huvadhu Atoll (GA),8,7
+1995,South Thiladhunmathi (HDh),South Huvadhu Atoll (GDh),10,8
+1995,South Thiladhunmathi (HDh),Gnaviyani (Gn),9,2
+1995,South Thiladhunmathi (HDh),Addu (S),13,7
+1995,North Miladhunmadulu (Sh),North Miladhunmadulu (Sh),10242,10242
+1995,North Miladhunmadulu (Sh),South Miladhunmadulu (N),9,46
+1995,North Miladhunmadulu (Sh),North Maalhosmadulu (R),47,31
+1995,North Miladhunmadulu (Sh),South Maalhosmadulu (B),0,42
+1995,North Miladhunmadulu (Sh),Faadhippolhu (Lh),16,31
+1995,North Miladhunmadulu (Sh),Male' Atoll (K),15,304
+1995,North Miladhunmadulu (Sh),North Ari Atoll (AA),1,58
+1995,North Miladhunmadulu (Sh),South Ari Atoll (ADh),3,27
+1995,North Miladhunmadulu (Sh),Felidhu Atoll (V),0,13
+1995,North Miladhunmadulu (Sh),Mulakatholhu (M),3,8
+1995,North Miladhunmadulu (Sh),North Nilandhe Atoll (F),0,0
+1995,North Miladhunmadulu (Sh),South Nilandhe Atoll (Dh),2,2
+1995,North Miladhunmadulu (Sh),Kolhumadulu (Th),1,8
+1995,North Miladhunmadulu (Sh),Hadhdhunmathi (L),4,6
+1995,North Miladhunmadulu (Sh),North Huvadhu Atoll (GA),6,0
+1995,North Miladhunmadulu (Sh),South Huvadhu Atoll (GDh),6,2
+1995,North Miladhunmadulu (Sh),Gnaviyani (Gn),1,0
+1995,North Miladhunmadulu (Sh),Addu (S),7,5
+1995,South Miladhunmadulu (N),South Miladhunmadulu (N),9707,9707
+1995,South Miladhunmadulu (N),North Maalhosmadulu (R),90,14
+1995,South Miladhunmadulu (N),South Maalhosmadulu (B),8,6
+1995,South Miladhunmadulu (N),Faadhippolhu (Lh),33,111
+1995,South Miladhunmadulu (N),Male' Atoll (K),8,285
+1995,South Miladhunmadulu (N),North Ari Atoll (AA),0,20
+1995,South Miladhunmadulu (N),South Ari Atoll (ADh),4,48
+1995,South Miladhunmadulu (N),Felidhu Atoll (V),0,17
+1995,South Miladhunmadulu (N),Mulakatholhu (M),5,5
+1995,South Miladhunmadulu (N),North Nilandhe Atoll (F),3,0
+1995,South Miladhunmadulu (N),South Nilandhe Atoll (Dh),3,2
+1995,South Miladhunmadulu (N),Kolhumadulu (Th),19,16
+1995,South Miladhunmadulu (N),Hadhdhunmathi (L),5,6
+1995,South Miladhunmadulu (N),North Huvadhu Atoll (GA),5,10
+1995,South Miladhunmadulu (N),South Huvadhu Atoll (GDh),9,5
+1995,South Miladhunmadulu (N),Gnaviyani (Gn),4,4
+1995,South Miladhunmadulu (N),Addu (S),6,11
+1995,North Maalhosmadulu (R),North Maalhosmadulu (R),12691,12691
+1995,North Maalhosmadulu (R),South Maalhosmadulu (B),19,103
+1995,North Maalhosmadulu (R),Faadhippolhu (Lh),8,72
+1995,North Maalhosmadulu (R),Male' Atoll (K),3,224
+1995,North Maalhosmadulu (R),North Ari Atoll (AA),1,41
+1995,North Maalhosmadulu (R),South Ari Atoll (ADh),0,29
+1995,North Maalhosmadulu (R),Felidhu Atoll (V),1,8
+1995,North Maalhosmadulu (R),Mulakatholhu (M),4,3
+1995,North Maalhosmadulu (R),North Nilandhe Atoll (F),1,0
+1995,North Maalhosmadulu (R),South Nilandhe Atoll (Dh),0,2
+1995,North Maalhosmadulu (R),Kolhumadulu (Th),17,16
+1995,North Maalhosmadulu (R),Hadhdhunmathi (L),8,8
+1995,North Maalhosmadulu (R),North Huvadhu Atoll (GA),3,18
+1995,North Maalhosmadulu (R),South Huvadhu Atoll (GDh),9,4
+1995,North Maalhosmadulu (R),Gnaviyani (Gn),2,0
+1995,North Maalhosmadulu (R),Addu (S),4,4
+1995,South Maalhosmadulu (B),South Maalhosmadulu (B),8298,8298
+1995,South Maalhosmadulu (B),Faadhippolhu (Lh),20,30
+1995,South Maalhosmadulu (B),Male' Atoll (K),7,138
+1995,South Maalhosmadulu (B),North Ari Atoll (AA),13,51
+1995,South Maalhosmadulu (B),South Ari Atoll (ADh),8,48
+1995,South Maalhosmadulu (B),Felidhu Atoll (V),4,7
+1995,South Maalhosmadulu (B),Mulakatholhu (M),5,6
+1995,South Maalhosmadulu (B),North Nilandhe Atoll (F),1,2
+1995,South Maalhosmadulu (B),South Nilandhe Atoll (Dh),2,0
+1995,South Maalhosmadulu (B),Kolhumadulu (Th),18,9
+1995,South Maalhosmadulu (B),Hadhdhunmathi (L),7,5
+1995,South Maalhosmadulu (B),North Huvadhu Atoll (GA),9,3
+1995,South Maalhosmadulu (B),South Huvadhu Atoll (GDh),3,2
+1995,South Maalhosmadulu (B),Gnaviyani (Gn),4,6
+1995,South Maalhosmadulu (B),Addu (S),30,5
+1995,Faadhippolhu (Lh),Faadhippolhu (Lh),7602,7602
+1995,Faadhippolhu (Lh),Male' Atoll (K),23,127
+1995,Faadhippolhu (Lh),North Ari Atoll (AA),3,12
+1995,Faadhippolhu (Lh),South Ari Atoll (ADh),0,15
+1995,Faadhippolhu (Lh),Felidhu Atoll (V),1,7
+1995,Faadhippolhu (Lh),Mulakatholhu (M),6,10
+1995,Faadhippolhu (Lh),North Nilandhe Atoll (F),0,0
+1995,Faadhippolhu (Lh),South Nilandhe Atoll (Dh),0,9
+1995,Faadhippolhu (Lh),Kolhumadulu (Th),7,24
+1995,Faadhippolhu (Lh),Hadhdhunmathi (L),1,5
+1995,Faadhippolhu (Lh),North Huvadhu Atoll (GA),4,30
+1995,Faadhippolhu (Lh),South Huvadhu Atoll (GDh),10,27
+1995,Faadhippolhu (Lh),Gnaviyani (Gn),8,4
+1995,Faadhippolhu (Lh),Addu (S),15,16
+1995,Male' Atoll (K),Male' Atoll (K),7180,7180
+1995,Male' Atoll (K),North Ari Atoll (AA),21,13
+1995,Male' Atoll (K),South Ari Atoll (ADh),72,11
+1995,Male' Atoll (K),Felidhu Atoll (V),28,2
+1995,Male' Atoll (K),Mulakatholhu (M),55,12
+1995,Male' Atoll (K),North Nilandhe Atoll (F),16,4
+1995,Male' Atoll (K),South Nilandhe Atoll (Dh),54,3
+1995,Male' Atoll (K),Kolhumadulu (Th),89,7
+1995,Male' Atoll (K),Hadhdhunmathi (L),51,0
+1995,Male' Atoll (K),North Huvadhu Atoll (GA),132,3
+1995,Male' Atoll (K),South Huvadhu Atoll (GDh),190,3
+1995,Male' Atoll (K),Gnaviyani (Gn),223,1
+1995,Male' Atoll (K),Addu (S),1374,6
+1995,North Ari Atoll (AA),North Ari Atoll (AA),4409,4409
+1995,North Ari Atoll (AA),South Ari Atoll (ADh),121,62
+1995,North Ari Atoll (AA),Felidhu Atoll (V),0,2
+1995,North Ari Atoll (AA),Mulakatholhu (M),5,0
+1995,North Ari Atoll (AA),North Nilandhe Atoll (F),6,1
+1995,North Ari Atoll (AA),South Nilandhe Atoll (Dh),11,0
+1995,North Ari Atoll (AA),Kolhumadulu (Th),8,0
+1995,North Ari Atoll (AA),Hadhdhunmathi (L),7,0
+1995,North Ari Atoll (AA),North Huvadhu Atoll (GA),14,0
+1995,North Ari Atoll (AA),South Huvadhu Atoll (GDh),10,1
+1995,North Ari Atoll (AA),Gnaviyani (Gn),58,1
+1995,North Ari Atoll (AA),Addu (S),186,0
+1995,South Ari Atoll (ADh),South Ari Atoll (ADh),5841,5841
+1995,South Ari Atoll (ADh),Felidhu Atoll (V),11,8
+1995,South Ari Atoll (ADh),Mulakatholhu (M),6,8
+1995,South Ari Atoll (ADh),North Nilandhe Atoll (F),4,0
+1995,South Ari Atoll (ADh),South Nilandhe Atoll (Dh),24,1
+1995,South Ari Atoll (ADh),Kolhumadulu (Th),11,4
+1995,South Ari Atoll (ADh),Hadhdhunmathi (L),14,5
+1995,South Ari Atoll (ADh),North Huvadhu Atoll (GA),21,3
+1995,South Ari Atoll (ADh),South Huvadhu Atoll (GDh),47,1
+1995,South Ari Atoll (ADh),Gnaviyani (Gn),47,1
+1995,South Ari Atoll (ADh),Addu (S),252,1
+1995,Felidhu Atoll (V),Felidhu Atoll (V),1531,1531
+1995,Felidhu Atoll (V),Mulakatholhu (M),13,15
+1995,Felidhu Atoll (V),North Nilandhe Atoll (F),25,1
+1995,Felidhu Atoll (V),South Nilandhe Atoll (Dh),0,3
+1995,Felidhu Atoll (V),Kolhumadulu (Th),7,0
+1995,Felidhu Atoll (V),Hadhdhunmathi (L),5,0
+1995,Felidhu Atoll (V),North Huvadhu Atoll (GA),0,2
+1995,Felidhu Atoll (V),South Huvadhu Atoll (GDh),1,4
+1995,Felidhu Atoll (V),Gnaviyani (Gn),0,3
+1995,Felidhu Atoll (V),Addu (S),3,3
+1995,Mulakatholhu (M),Mulakatholhu (M),4636,4636
+1995,Mulakatholhu (M),North Nilandhe Atoll (F),9,0
+1995,Mulakatholhu (M),South Nilandhe Atoll (Dh),15,3
+1995,Mulakatholhu (M),Kolhumadulu (Th),36,14
+1995,Mulakatholhu (M),Hadhdhunmathi (L),9,2
+1995,Mulakatholhu (M),North Huvadhu Atoll (GA),7,12
+1995,Mulakatholhu (M),South Huvadhu Atoll (GDh),4,1
+1995,Mulakatholhu (M),Gnaviyani (Gn),2,3
+1995,Mulakatholhu (M),Addu (S),3,9
+1995,North Nilandhe Atoll (F),North Nilandhe Atoll (F),3074,3074
+1995,North Nilandhe Atoll (F),South Nilandhe Atoll (Dh),5,8
+1995,North Nilandhe Atoll (F),Kolhumadulu (Th),9,0
+1995,North Nilandhe Atoll (F),Hadhdhunmathi (L),1,1
+1995,North Nilandhe Atoll (F),North Huvadhu Atoll (GA),3,0
+1995,North Nilandhe Atoll (F),South Huvadhu Atoll (GDh),7,1
+1995,North Nilandhe Atoll (F),Gnaviyani (Gn),0,0
+1995,North Nilandhe Atoll (F),Addu (S),5,4
+1995,South Nilandhe Atoll (Dh),South Nilandhe Atoll (Dh),4672,4672
+1995,South Nilandhe Atoll (Dh),Kolhumadulu (Th),6,15
+1995,South Nilandhe Atoll (Dh),Hadhdhunmathi (L),11,4
+1995,South Nilandhe Atoll (Dh),North Huvadhu Atoll (GA),0,0
+1995,South Nilandhe Atoll (Dh),South Huvadhu Atoll (GDh),6,3
+1995,South Nilandhe Atoll (Dh),Gnaviyani (Gn),0,0
+1995,South Nilandhe Atoll (Dh),Addu (S),3,3
+1995,Kolhumadulu (Th),Kolhumadulu (Th),9108,9108
+1995,Kolhumadulu (Th),Hadhdhunmathi (L),128,27
+1995,Kolhumadulu (Th),North Huvadhu Atoll (GA),16,8
+1995,Kolhumadulu (Th),South Huvadhu Atoll (GDh),13,5
+1995,Kolhumadulu (Th),Gnaviyani (Gn),4,6
+1995,Kolhumadulu (Th),Addu (S),5,3
+1995,Hadhdhunmathi (L),Hadhdhunmathi (L),9896,9896
+1995,Hadhdhunmathi (L),North Huvadhu Atoll (GA),2,40
+1995,Hadhdhunmathi (L),South Huvadhu Atoll (GDh),14,30
+1995,Hadhdhunmathi (L),Gnaviyani (Gn),2,1
+1995,Hadhdhunmathi (L),Addu (S),7,8
+1995,North Huvadhu Atoll (GA),North Huvadhu Atoll (GA),7762,7762
+1995,North Huvadhu Atoll (GA),South Huvadhu Atoll (GDh),76,144
+1995,North Huvadhu Atoll (GA),Gnaviyani (Gn),10,15
+1995,North Huvadhu Atoll (GA),Addu (S),30,56
+1995,South Huvadhu Atoll (GDh),South Huvadhu Atoll (GDh),11542,11542
+1995,South Huvadhu Atoll (GDh),Gnaviyani (Gn),20,62
+1995,South Huvadhu Atoll (GDh),Addu (S),51,111
+1995,Gnaviyani (Gn),Gnaviyani (Gn),6739,6739
+1995,Gnaviyani (Gn),Addu (S),67,73
+1995,Addu (S),Addu (S),17337,17337
+2000,Male' ,Male' ,38955,38955
+2000,Male' ,North Thiladhunmathi (HA),2577,115
+2000,Male' ,South Thiladhunmathi (HDh),2194,142
+2000,Male' ,North Miladhunmadulu (Sh),980,39
+2000,Male' ,South Miladhunmadulu (N),1565,78
+2000,Male' ,North Maalhosmadulu (R),1913,107
+2000,Male' ,South Maalhosmadulu (B),1600,104
+2000,Male' ,Faadhippolhu (Lh),1494,105
+2000,Male' ,Male' Atoll (K),932,672
+2000,Male' ,North Ari Atoll (AA),694,76
+2000,Male' ,South Ari Atoll (ADh),684,111
+2000,Male' ,Felidhu Atoll (V),392,35
+2000,Male' ,Mulakatholhu (M),938,54
+2000,Male' ,North Nilandhe Atoll (F),397,14
+2000,Male' ,South Nilandhe Atoll (Dh),959,54
+2000,Male' ,Kolhumadulu (Th),2728,102
+2000,Male' ,Hadhdhunmathi (L),1218,120
+2000,Male' ,North Huvadhu Atoll (GA),1932,45
+2000,Male' ,South Huvadhu Atoll (GDh),3854,85
+2000,Male' ,Gnaviyani (Gn),1007,40
+2000,Male' ,Addu (S),4826,100
+2000,North Thiladhunmathi (HA),North Thiladhunmathi (HA),13631,13631
+2000,North Thiladhunmathi (HA),South Thiladhunmathi (HDh),80,135
+2000,North Thiladhunmathi (HA),North Miladhunmadulu (Sh),17,8
+2000,North Thiladhunmathi (HA),South Miladhunmadulu (N),26,24
+2000,North Thiladhunmathi (HA),North Maalhosmadulu (R),18,12
+2000,North Thiladhunmathi (HA),South Maalhosmadulu (B),7,31
+2000,North Thiladhunmathi (HA),Faadhippolhu (Lh),19,42
+2000,North Thiladhunmathi (HA),Male' Atoll (K),5,415
+2000,North Thiladhunmathi (HA),North Ari Atoll (AA),2,61
+2000,North Thiladhunmathi (HA),South Ari Atoll (ADh),35,66
+2000,North Thiladhunmathi (HA),Felidhu Atoll (V),0,14
+2000,North Thiladhunmathi (HA),Mulakatholhu (M),7,9
+2000,North Thiladhunmathi (HA),North Nilandhe Atoll (F),6,12
+2000,North Thiladhunmathi (HA),South Nilandhe Atoll (Dh),2,17
+2000,North Thiladhunmathi (HA),Kolhumadulu (Th),7,13
+2000,North Thiladhunmathi (HA),Hadhdhunmathi (L),11,19
+2000,North Thiladhunmathi (HA),North Huvadhu Atoll (GA),8,4
+2000,North Thiladhunmathi (HA),South Huvadhu Atoll (GDh),29,8
+2000,North Thiladhunmathi (HA),Gnaviyani (Gn),4,1
+2000,North Thiladhunmathi (HA),Addu (S),25,19
+2000,South Thiladhunmathi (HDh),South Thiladhunmathi (HDh),16228,16228
+2000,South Thiladhunmathi (HDh),North Miladhunmadulu (Sh),60,75
+2000,South Thiladhunmathi (HDh),South Miladhunmadulu (N),15,13
+2000,South Thiladhunmathi (HDh),North Maalhosmadulu (R),57,26
+2000,South Thiladhunmathi (HDh),South Maalhosmadulu (B),18,45
+2000,South Thiladhunmathi (HDh),Faadhippolhu (Lh),15,76
+2000,South Thiladhunmathi (HDh),Male' Atoll (K),12,504
+2000,South Thiladhunmathi (HDh),North Ari Atoll (AA),2,69
+2000,South Thiladhunmathi (HDh),South Ari Atoll (ADh),0,73
+2000,South Thiladhunmathi (HDh),Felidhu Atoll (V),2,12
+2000,South Thiladhunmathi (HDh),Mulakatholhu (M),10,11
+2000,South Thiladhunmathi (HDh),North Nilandhe Atoll (F),2,4
+2000,South Thiladhunmathi (HDh),South Nilandhe Atoll (Dh),6,13
+2000,South Thiladhunmathi (HDh),Kolhumadulu (Th),12,23
+2000,South Thiladhunmathi (HDh),Hadhdhunmathi (L),11,7
+2000,South Thiladhunmathi (HDh),North Huvadhu Atoll (GA),4,4
+2000,South Thiladhunmathi (HDh),South Huvadhu Atoll (GDh),20,19
+2000,South Thiladhunmathi (HDh),Gnaviyani (Gn),7,11
+2000,South Thiladhunmathi (HDh),Addu (S),31,13
+2000,North Miladhunmadulu (Sh),North Miladhunmadulu (Sh),10887,10887
+2000,North Miladhunmadulu (Sh),South Miladhunmadulu (N),30,80
+2000,North Miladhunmadulu (Sh),North Maalhosmadulu (R),72,50
+2000,North Miladhunmadulu (Sh),South Maalhosmadulu (B),2,44
+2000,North Miladhunmadulu (Sh),Faadhippolhu (Lh),13,100
+2000,North Miladhunmadulu (Sh),Male' Atoll (K),3,290
+2000,North Miladhunmadulu (Sh),North Ari Atoll (AA),5,34
+2000,North Miladhunmadulu (Sh),South Ari Atoll (ADh),1,66
+2000,North Miladhunmadulu (Sh),Felidhu Atoll (V),2,6
+2000,North Miladhunmadulu (Sh),Mulakatholhu (M),9,0
+2000,North Miladhunmadulu (Sh),North Nilandhe Atoll (F),0,4
+2000,North Miladhunmadulu (Sh),South Nilandhe Atoll (Dh),1,10
+2000,North Miladhunmadulu (Sh),Kolhumadulu (Th),11,9
+2000,North Miladhunmadulu (Sh),Hadhdhunmathi (L),2,4
+2000,North Miladhunmadulu (Sh),North Huvadhu Atoll (GA),10,5
+2000,North Miladhunmadulu (Sh),South Huvadhu Atoll (GDh),10,7
+2000,North Miladhunmadulu (Sh),Gnaviyani (Gn),11,2
+2000,North Miladhunmadulu (Sh),Addu (S),17,3
+2000,South Miladhunmadulu (N),South Miladhunmadulu (N),9960,9960
+2000,South Miladhunmadulu (N),North Maalhosmadulu (R),51,50
+2000,South Miladhunmadulu (N),South Maalhosmadulu (B),13,24
+2000,South Miladhunmadulu (N),Faadhippolhu (Lh),57,263
+2000,South Miladhunmadulu (N),Male' Atoll (K),9,284
+2000,South Miladhunmadulu (N),North Ari Atoll (AA),1,22
+2000,South Miladhunmadulu (N),South Ari Atoll (ADh),2,65
+2000,South Miladhunmadulu (N),Felidhu Atoll (V),0,15
+2000,South Miladhunmadulu (N),Mulakatholhu (M),6,9
+2000,South Miladhunmadulu (N),North Nilandhe Atoll (F),1,1
+2000,South Miladhunmadulu (N),South Nilandhe Atoll (Dh),9,27
+2000,South Miladhunmadulu (N),Kolhumadulu (Th),13,29
+2000,South Miladhunmadulu (N),Hadhdhunmathi (L),7,21
+2000,South Miladhunmadulu (N),North Huvadhu Atoll (GA),5,4
+2000,South Miladhunmadulu (N),South Huvadhu Atoll (GDh),21,9
+2000,South Miladhunmadulu (N),Gnaviyani (Gn),4,3
+2000,South Miladhunmadulu (N),Addu (S),12,11
+2000,North Maalhosmadulu (R),North Maalhosmadulu (R),13958,13958
+2000,North Maalhosmadulu (R),South Maalhosmadulu (B),49,163
+2000,North Maalhosmadulu (R),Faadhippolhu (Lh),23,160
+2000,North Maalhosmadulu (R),Male' Atoll (K),5,225
+2000,North Maalhosmadulu (R),North Ari Atoll (AA),3,45
+2000,North Maalhosmadulu (R),South Ari Atoll (ADh),17,45
+2000,North Maalhosmadulu (R),Felidhu Atoll (V),0,37
+2000,North Maalhosmadulu (R),Mulakatholhu (M),10,8
+2000,North Maalhosmadulu (R),North Nilandhe Atoll (F),3,2
+2000,North Maalhosmadulu (R),South Nilandhe Atoll (Dh),5,4
+2000,North Maalhosmadulu (R),Kolhumadulu (Th),23,12
+2000,North Maalhosmadulu (R),Hadhdhunmathi (L),8,15
+2000,North Maalhosmadulu (R),North Huvadhu Atoll (GA),8,17
+2000,North Maalhosmadulu (R),South Huvadhu Atoll (GDh),20,2
+2000,North Maalhosmadulu (R),Gnaviyani (Gn),10,5
+2000,North Maalhosmadulu (R),Addu (S),17,21
+2000,South Maalhosmadulu (B),South Maalhosmadulu (B),8886,8886
+2000,South Maalhosmadulu (B),Faadhippolhu (Lh),17,57
+2000,South Maalhosmadulu (B),Male' Atoll (K),27,126
+2000,South Maalhosmadulu (B),North Ari Atoll (AA),18,50
+2000,South Maalhosmadulu (B),South Ari Atoll (ADh),3,45
+2000,South Maalhosmadulu (B),Felidhu Atoll (V),4,13
+2000,South Maalhosmadulu (B),Mulakatholhu (M),13,8
+2000,South Maalhosmadulu (B),North Nilandhe Atoll (F),13,5
+2000,South Maalhosmadulu (B),South Nilandhe Atoll (Dh),6,4
+2000,South Maalhosmadulu (B),Kolhumadulu (Th),9,17
+2000,South Maalhosmadulu (B),Hadhdhunmathi (L),15,10
+2000,South Maalhosmadulu (B),North Huvadhu Atoll (GA),11,4
+2000,South Maalhosmadulu (B),South Huvadhu Atoll (GDh),18,8
+2000,South Maalhosmadulu (B),Gnaviyani (Gn),34,5
+2000,South Maalhosmadulu (B),Addu (S),75,5
+2000,Faadhippolhu (Lh),Faadhippolhu (Lh),8305,8305
+2000,Faadhippolhu (Lh),Male' Atoll (K),18,184
+2000,Faadhippolhu (Lh),North Ari Atoll (AA),8,22
+2000,Faadhippolhu (Lh),South Ari Atoll (ADh),3,23
+2000,Faadhippolhu (Lh),Felidhu Atoll (V),3,10
+2000,Faadhippolhu (Lh),Mulakatholhu (M),2,12
+2000,Faadhippolhu (Lh),North Nilandhe Atoll (F),0,6
+2000,Faadhippolhu (Lh),South Nilandhe Atoll (Dh),1,6
+2000,Faadhippolhu (Lh),Kolhumadulu (Th),23,15
+2000,Faadhippolhu (Lh),Hadhdhunmathi (L),19,20
+2000,Faadhippolhu (Lh),North Huvadhu Atoll (GA),9,9
+2000,Faadhippolhu (Lh),South Huvadhu Atoll (GDh),22,23
+2000,Faadhippolhu (Lh),Gnaviyani (Gn),33,6
+2000,Faadhippolhu (Lh),Addu (S),83,11
+2000,Male' Atoll (K),Male' Atoll (K),7776,7776
+2000,Male' Atoll (K),North Ari Atoll (AA),52,24
+2000,Male' Atoll (K),South Ari Atoll (ADh),57,23
+2000,Male' Atoll (K),Felidhu Atoll (V),29,11
+2000,Male' Atoll (K),Mulakatholhu (M),69,10
+2000,Male' Atoll (K),North Nilandhe Atoll (F),19,5
+2000,Male' Atoll (K),South Nilandhe Atoll (Dh),70,6
+2000,Male' Atoll (K),Kolhumadulu (Th),174,5
+2000,Male' Atoll (K),Hadhdhunmathi (L),88,5
+2000,Male' Atoll (K),North Huvadhu Atoll (GA),155,7
+2000,Male' Atoll (K),South Huvadhu Atoll (GDh),285,6
+2000,Male' Atoll (K),Gnaviyani (Gn),300,2
+2000,Male' Atoll (K),Addu (S),1488,9
+2000,North Ari Atoll (AA),North Ari Atoll (AA),4568,4568
+2000,North Ari Atoll (AA),South Ari Atoll (ADh),81,122
+2000,North Ari Atoll (AA),Felidhu Atoll (V),8,2
+2000,North Ari Atoll (AA),Mulakatholhu (M),9,6
+2000,North Ari Atoll (AA),North Nilandhe Atoll (F),14,4
+2000,North Ari Atoll (AA),South Nilandhe Atoll (Dh),10,1
+2000,North Ari Atoll (AA),Kolhumadulu (Th),11,0
+2000,North Ari Atoll (AA),Hadhdhunmathi (L),17,2
+2000,North Ari Atoll (AA),North Huvadhu Atoll (GA),9,0
+2000,North Ari Atoll (AA),South Huvadhu Atoll (GDh),33,2
+2000,North Ari Atoll (AA),Gnaviyani (Gn),53,0
+2000,North Ari Atoll (AA),Addu (S),184,8
+2000,South Ari Atoll (ADh),South Ari Atoll (ADh),6527,6527
+2000,South Ari Atoll (ADh),Felidhu Atoll (V),19,21
+2000,South Ari Atoll (ADh),Mulakatholhu (M),13,0
+2000,South Ari Atoll (ADh),North Nilandhe Atoll (F),9,21
+2000,South Ari Atoll (ADh),South Nilandhe Atoll (Dh),51,11
+2000,South Ari Atoll (ADh),Kolhumadulu (Th),15,5
+2000,South Ari Atoll (ADh),Hadhdhunmathi (L),10,1
+2000,South Ari Atoll (ADh),North Huvadhu Atoll (GA),32,0
+2000,South Ari Atoll (ADh),South Huvadhu Atoll (GDh),41,6
+2000,South Ari Atoll (ADh),Gnaviyani (Gn),74,5
+2000,South Ari Atoll (ADh),Addu (S),295,3
+2000,Felidhu Atoll (V),Felidhu Atoll (V),1508,1508
+2000,Felidhu Atoll (V),Mulakatholhu (M),14,13
+2000,Felidhu Atoll (V),North Nilandhe Atoll (F),8,7
+2000,Felidhu Atoll (V),South Nilandhe Atoll (Dh),11,4
+2000,Felidhu Atoll (V),Kolhumadulu (Th),8,1
+2000,Felidhu Atoll (V),Hadhdhunmathi (L),7,4
+2000,Felidhu Atoll (V),North Huvadhu Atoll (GA),0,1
+2000,Felidhu Atoll (V),South Huvadhu Atoll (GDh),3,2
+2000,Felidhu Atoll (V),Gnaviyani (Gn),3,3
+2000,Felidhu Atoll (V),Addu (S),12,1
+2000,Mulakatholhu (M),Mulakatholhu (M),4742,4742
+2000,Mulakatholhu (M),North Nilandhe Atoll (F),13,5
+2000,Mulakatholhu (M),South Nilandhe Atoll (Dh),38,26
+2000,Mulakatholhu (M),Kolhumadulu (Th),58,18
+2000,Mulakatholhu (M),Hadhdhunmathi (L),46,10
+2000,Mulakatholhu (M),North Huvadhu Atoll (GA),4,2
+2000,Mulakatholhu (M),South Huvadhu Atoll (GDh),7,3
+2000,Mulakatholhu (M),Gnaviyani (Gn),8,4
+2000,Mulakatholhu (M),Addu (S),14,8
+2000,North Nilandhe Atoll (F),North Nilandhe Atoll (F),3557,3557
+2000,North Nilandhe Atoll (F),South Nilandhe Atoll (Dh),89,15
+2000,North Nilandhe Atoll (F),Kolhumadulu (Th),14,2
+2000,North Nilandhe Atoll (F),Hadhdhunmathi (L),6,5
+2000,North Nilandhe Atoll (F),North Huvadhu Atoll (GA),1,0
+2000,North Nilandhe Atoll (F),South Huvadhu Atoll (GDh),0,1
+2000,North Nilandhe Atoll (F),Gnaviyani (Gn),11,0
+2000,North Nilandhe Atoll (F),Addu (S),29,5
+2000,South Nilandhe Atoll (Dh),South Nilandhe Atoll (Dh),4752,4752
+2000,South Nilandhe Atoll (Dh),Kolhumadulu (Th),20,4
+2000,South Nilandhe Atoll (Dh),Hadhdhunmathi (L),12,3
+2000,South Nilandhe Atoll (Dh),North Huvadhu Atoll (GA),8,1
+2000,South Nilandhe Atoll (Dh),South Huvadhu Atoll (GDh),15,5
+2000,South Nilandhe Atoll (Dh),Gnaviyani (Gn),5,0
+2000,South Nilandhe Atoll (Dh),Addu (S),38,8
+2000,Kolhumadulu (Th),Kolhumadulu (Th),8855,8855
+2000,Kolhumadulu (Th),Hadhdhunmathi (L),72,48
+2000,Kolhumadulu (Th),North Huvadhu Atoll (GA),14,19
+2000,Kolhumadulu (Th),South Huvadhu Atoll (GDh),13,11
+2000,Kolhumadulu (Th),Gnaviyani (Gn),0,5
+2000,Kolhumadulu (Th),Addu (S),13,14
+2000,Hadhdhunmathi (L),Hadhdhunmathi (L),11122,11122
+2000,Hadhdhunmathi (L),North Huvadhu Atoll (GA),12,12
+2000,Hadhdhunmathi (L),South Huvadhu Atoll (GDh),31,36
+2000,Hadhdhunmathi (L),Gnaviyani (Gn),6,4
+2000,Hadhdhunmathi (L),Addu (S),17,13
+2000,North Huvadhu Atoll (GA),North Huvadhu Atoll (GA),7937,7937
+2000,North Huvadhu Atoll (GA),South Huvadhu Atoll (GDh),111,282
+2000,North Huvadhu Atoll (GA),Gnaviyani (Gn),12,38
+2000,North Huvadhu Atoll (GA),Addu (S),22,101
+2000,South Huvadhu Atoll (GDh),South Huvadhu Atoll (GDh),11219,11219
+2000,South Huvadhu Atoll (GDh),Gnaviyani (Gn),14,102
+2000,South Huvadhu Atoll (GDh),Addu (S),72,133
+2000,Gnaviyani (Gn),Gnaviyani (Gn),7201,7201
+2000,Gnaviyani (Gn),Addu (S),51,87
+2000,Addu (S),Addu (S),17863,17863
+2006,Male' ,Male' ,44910,44910
+2006,Male' ,North Thiladhunmathi (HA),4032,75
+2006,Male' ,South Thiladhunmathi (HDh),3765,106
+2006,Male' ,North Miladhunmadulu (Sh),1696,63
+2006,Male' ,South Miladhunmadulu (N),2554,83
+2006,Male' ,North Maalhosmadulu (R),2852,90
+2006,Male' ,South Maalhosmadulu (B),2290,126
+2006,Male' ,Faadhippolhu (Lh),2019,127
+2006,Male' ,Male' Atoll (K),1695,668
+2006,Male' ,North Ari Atoll (AA),1186,68
+2006,Male' ,South Ari Atoll (ADh),1179,122
+2006,Male' ,Felidhu Atoll (V),545,32
+2006,Male' ,Mulakatholhu (M),1397,63
+2006,Male' ,North Nilandhe Atoll (F),735,22
+2006,Male' ,South Nilandhe Atoll (Dh),1426,58
+2006,Male' ,Kolhumadulu (Th),4061,112
+2006,Male' ,Hadhdhunmathi (L),2007,137
+2006,Male' ,North Huvadhu Atoll (GA),3004,69
+2006,Male' ,South Huvadhu Atoll (GDh),5560,129
+2006,Male' ,Gnaviyani (Gn),1610,45
+2006,Male' ,Addu (S),6923,157
+2006,North Thiladhunmathi (HA),North Thiladhunmathi (HA),12902,12902
+2006,North Thiladhunmathi (HA),South Thiladhunmathi (HDh),183,148
+2006,North Thiladhunmathi (HA),North Miladhunmadulu (Sh),30,36
+2006,North Thiladhunmathi (HA),South Miladhunmadulu (N),22,49
+2006,North Thiladhunmathi (HA),North Maalhosmadulu (R),28,18
+2006,North Thiladhunmathi (HA),South Maalhosmadulu (B),13,37
+2006,North Thiladhunmathi (HA),Faadhippolhu (Lh),48,46
+2006,North Thiladhunmathi (HA),Male' Atoll (K),10,669
+2006,North Thiladhunmathi (HA),North Ari Atoll (AA),2,81
+2006,North Thiladhunmathi (HA),South Ari Atoll (ADh),1,73
+2006,North Thiladhunmathi (HA),Felidhu Atoll (V),2,15
+2006,North Thiladhunmathi (HA),Mulakatholhu (M),9,16
+2006,North Thiladhunmathi (HA),North Nilandhe Atoll (F),7,4
+2006,North Thiladhunmathi (HA),South Nilandhe Atoll (Dh),4,24
+2006,North Thiladhunmathi (HA),Kolhumadulu (Th),25,7
+2006,North Thiladhunmathi (HA),Hadhdhunmathi (L),22,49
+2006,North Thiladhunmathi (HA),North Huvadhu Atoll (GA),9,6
+2006,North Thiladhunmathi (HA),South Huvadhu Atoll (GDh),24,18
+2006,North Thiladhunmathi (HA),Gnaviyani (Gn),10,11
+2006,North Thiladhunmathi (HA),Addu (S),19,30
+2006,South Thiladhunmathi (HDh),South Thiladhunmathi (HDh),15575,15575
+2006,South Thiladhunmathi (HDh),North Miladhunmadulu (Sh),77,76
+2006,South Thiladhunmathi (HDh),South Miladhunmadulu (N),23,14
+2006,South Thiladhunmathi (HDh),North Maalhosmadulu (R),29,24
+2006,South Thiladhunmathi (HDh),South Maalhosmadulu (B),19,36
+2006,South Thiladhunmathi (HDh),Faadhippolhu (Lh),16,35
+2006,South Thiladhunmathi (HDh),Male' Atoll (K),15,734
+2006,South Thiladhunmathi (HDh),North Ari Atoll (AA),5,137
+2006,South Thiladhunmathi (HDh),South Ari Atoll (ADh),5,117
+2006,South Thiladhunmathi (HDh),Felidhu Atoll (V),5,11
+2006,South Thiladhunmathi (HDh),Mulakatholhu (M),6,31
+2006,South Thiladhunmathi (HDh),North Nilandhe Atoll (F),2,10
+2006,South Thiladhunmathi (HDh),South Nilandhe Atoll (Dh),11,12
+2006,South Thiladhunmathi (HDh),Kolhumadulu (Th),8,19
+2006,South Thiladhunmathi (HDh),Hadhdhunmathi (L),16,35
+2006,South Thiladhunmathi (HDh),North Huvadhu Atoll (GA),6,9
+2006,South Thiladhunmathi (HDh),South Huvadhu Atoll (GDh),19,17
+2006,South Thiladhunmathi (HDh),Gnaviyani (Gn),12,8
+2006,South Thiladhunmathi (HDh),Addu (S),22,25
+2006,North Miladhunmadulu (Sh),North Miladhunmadulu (Sh),11409,11409
+2006,North Miladhunmadulu (Sh),South Miladhunmadulu (N),42,52
+2006,North Miladhunmadulu (Sh),North Maalhosmadulu (R),115,39
+2006,North Miladhunmadulu (Sh),South Maalhosmadulu (B),15,56
+2006,North Miladhunmadulu (Sh),Faadhippolhu (Lh),15,101
+2006,North Miladhunmadulu (Sh),Male' Atoll (K),13,389
+2006,North Miladhunmadulu (Sh),North Ari Atoll (AA),1,78
+2006,North Miladhunmadulu (Sh),South Ari Atoll (ADh),8,58
+2006,North Miladhunmadulu (Sh),Felidhu Atoll (V),4,10
+2006,North Miladhunmadulu (Sh),Mulakatholhu (M),5,5
+2006,North Miladhunmadulu (Sh),North Nilandhe Atoll (F),0,32
+2006,North Miladhunmadulu (Sh),South Nilandhe Atoll (Dh),4,25
+2006,North Miladhunmadulu (Sh),Kolhumadulu (Th),4,8
+2006,North Miladhunmadulu (Sh),Hadhdhunmathi (L),7,9
+2006,North Miladhunmadulu (Sh),North Huvadhu Atoll (GA),9,5
+2006,North Miladhunmadulu (Sh),South Huvadhu Atoll (GDh),11,13
+2006,North Miladhunmadulu (Sh),Gnaviyani (Gn),9,3
+2006,North Miladhunmadulu (Sh),Addu (S),17,16
+2006,South Miladhunmadulu (N),South Miladhunmadulu (N),9444,9444
+2006,South Miladhunmadulu (N),North Maalhosmadulu (R),129,52
+2006,South Miladhunmadulu (N),South Maalhosmadulu (B),11,33
+2006,South Miladhunmadulu (N),Faadhippolhu (Lh),57,324
+2006,South Miladhunmadulu (N),Male' Atoll (K),12,388
+2006,South Miladhunmadulu (N),North Ari Atoll (AA),1,25
+2006,South Miladhunmadulu (N),South Ari Atoll (ADh),5,110
+2006,South Miladhunmadulu (N),Felidhu Atoll (V),0,30
+2006,South Miladhunmadulu (N),Mulakatholhu (M),19,9
+2006,South Miladhunmadulu (N),North Nilandhe Atoll (F),0,6
+2006,South Miladhunmadulu (N),South Nilandhe Atoll (Dh),4,32
+2006,South Miladhunmadulu (N),Kolhumadulu (Th),19,12
+2006,South Miladhunmadulu (N),Hadhdhunmathi (L),10,29
+2006,South Miladhunmadulu (N),North Huvadhu Atoll (GA),3,12
+2006,South Miladhunmadulu (N),South Huvadhu Atoll (GDh),8,20
+2006,South Miladhunmadulu (N),Gnaviyani (Gn),1,6
+2006,South Miladhunmadulu (N),Addu (S),13,25
+2006,North Maalhosmadulu (R),North Maalhosmadulu (R),14233,14233
+2006,North Maalhosmadulu (R),South Maalhosmadulu (B),55,147
+2006,North Maalhosmadulu (R),Faadhippolhu (Lh),21,182
+2006,North Maalhosmadulu (R),Male' Atoll (K),15,309
+2006,North Maalhosmadulu (R),North Ari Atoll (AA),9,74
+2006,North Maalhosmadulu (R),South Ari Atoll (ADh),18,56
+2006,North Maalhosmadulu (R),Felidhu Atoll (V),1,9
+2006,North Maalhosmadulu (R),Mulakatholhu (M),16,16
+2006,North Maalhosmadulu (R),North Nilandhe Atoll (F),2,3
+2006,North Maalhosmadulu (R),South Nilandhe Atoll (Dh),5,24
+2006,North Maalhosmadulu (R),Kolhumadulu (Th),15,36
+2006,North Maalhosmadulu (R),Hadhdhunmathi (L),5,46
+2006,North Maalhosmadulu (R),North Huvadhu Atoll (GA),5,15
+2006,North Maalhosmadulu (R),South Huvadhu Atoll (GDh),17,18
+2006,North Maalhosmadulu (R),Gnaviyani (Gn),12,9
+2006,North Maalhosmadulu (R),Addu (S),27,27
+2006,South Maalhosmadulu (B),South Maalhosmadulu (B),8683,8683
+2006,South Maalhosmadulu (B),Faadhippolhu (Lh),33,57
+2006,South Maalhosmadulu (B),Male' Atoll (K),11,185
+2006,South Maalhosmadulu (B),North Ari Atoll (AA),15,48
+2006,South Maalhosmadulu (B),South Ari Atoll (ADh),23,76
+2006,South Maalhosmadulu (B),Felidhu Atoll (V),10,10
+2006,South Maalhosmadulu (B),Mulakatholhu (M),19,7
+2006,South Maalhosmadulu (B),North Nilandhe Atoll (F),6,4
+2006,South Maalhosmadulu (B),South Nilandhe Atoll (Dh),5,3
+2006,South Maalhosmadulu (B),Kolhumadulu (Th),11,7
+2006,South Maalhosmadulu (B),Hadhdhunmathi (L),13,27
+2006,South Maalhosmadulu (B),North Huvadhu Atoll (GA),18,1
+2006,South Maalhosmadulu (B),South Huvadhu Atoll (GDh),49,9
+2006,South Maalhosmadulu (B),Gnaviyani (Gn),49,4
+2006,South Maalhosmadulu (B),Addu (S),90,20
+2006,Faadhippolhu (Lh),Faadhippolhu (Lh),8045,8045
+2006,Faadhippolhu (Lh),Male' Atoll (K),26,259
+2006,Faadhippolhu (Lh),North Ari Atoll (AA),4,28
+2006,Faadhippolhu (Lh),South Ari Atoll (ADh),4,38
+2006,Faadhippolhu (Lh),Felidhu Atoll (V),4,2
+2006,Faadhippolhu (Lh),Mulakatholhu (M),2,8
+2006,Faadhippolhu (Lh),North Nilandhe Atoll (F),5,5
+2006,Faadhippolhu (Lh),South Nilandhe Atoll (Dh),2,9
+2006,Faadhippolhu (Lh),Kolhumadulu (Th),14,17
+2006,Faadhippolhu (Lh),Hadhdhunmathi (L),22,22
+2006,Faadhippolhu (Lh),North Huvadhu Atoll (GA),8,24
+2006,Faadhippolhu (Lh),South Huvadhu Atoll (GDh),32,21
+2006,Faadhippolhu (Lh),Gnaviyani (Gn),8,11
+2006,Faadhippolhu (Lh),Addu (S),57,27
+2006,Male' Atoll (K),Male' Atoll (K),7892,7892
+2006,Male' Atoll (K),North Ari Atoll (AA),70,23
+2006,Male' Atoll (K),South Ari Atoll (ADh),68,17
+2006,Male' Atoll (K),Felidhu Atoll (V),39,4
+2006,Male' Atoll (K),Mulakatholhu (M),127,14
+2006,Male' Atoll (K),North Nilandhe Atoll (F),46,8
+2006,Male' Atoll (K),South Nilandhe Atoll (Dh),320,16
+2006,Male' Atoll (K),Kolhumadulu (Th),189,11
+2006,Male' Atoll (K),Hadhdhunmathi (L),195,10
+2006,Male' Atoll (K),North Huvadhu Atoll (GA),165,15
+2006,Male' Atoll (K),South Huvadhu Atoll (GDh),322,11
+2006,Male' Atoll (K),Gnaviyani (Gn),404,10
+2006,Male' Atoll (K),Addu (S),1611,18
+2006,North Ari Atoll (AA),North Ari Atoll (AA),4624,4624
+2006,North Ari Atoll (AA),South Ari Atoll (ADh),107,121
+2006,North Ari Atoll (AA),Felidhu Atoll (V),10,12
+2006,North Ari Atoll (AA),Mulakatholhu (M),8,8
+2006,North Ari Atoll (AA),North Nilandhe Atoll (F),8,1
+2006,North Ari Atoll (AA),South Nilandhe Atoll (Dh),10,2
+2006,North Ari Atoll (AA),Kolhumadulu (Th),6,2
+2006,North Ari Atoll (AA),Hadhdhunmathi (L),16,5
+2006,North Ari Atoll (AA),North Huvadhu Atoll (GA),7,0
+2006,North Ari Atoll (AA),South Huvadhu Atoll (GDh),41,0
+2006,North Ari Atoll (AA),Gnaviyani (Gn),88,1
+2006,North Ari Atoll (AA),Addu (S),155,18
+2006,South Ari Atoll (ADh),South Ari Atoll (ADh),6711,6711
+2006,South Ari Atoll (ADh),Felidhu Atoll (V),21,13
+2006,South Ari Atoll (ADh),Mulakatholhu (M),152,11
+2006,South Ari Atoll (ADh),North Nilandhe Atoll (F),6,2
+2006,South Ari Atoll (ADh),South Nilandhe Atoll (Dh),78,6
+2006,South Ari Atoll (ADh),Kolhumadulu (Th),28,8
+2006,South Ari Atoll (ADh),Hadhdhunmathi (L),29,10
+2006,South Ari Atoll (ADh),North Huvadhu Atoll (GA),22,7
+2006,South Ari Atoll (ADh),South Huvadhu Atoll (GDh),50,3
+2006,South Ari Atoll (ADh),Gnaviyani (Gn),92,7
+2006,South Ari Atoll (ADh),Addu (S),320,5
+2006,Felidhu Atoll (V),Felidhu Atoll (V),1356,1356
+2006,Felidhu Atoll (V),Mulakatholhu (M),14,39
+2006,Felidhu Atoll (V),North Nilandhe Atoll (F),12,4
+2006,Felidhu Atoll (V),South Nilandhe Atoll (Dh),5,4
+2006,Felidhu Atoll (V),Kolhumadulu (Th),5,5
+2006,Felidhu Atoll (V),Hadhdhunmathi (L),6,6
+2006,Felidhu Atoll (V),North Huvadhu Atoll (GA),4,1
+2006,Felidhu Atoll (V),South Huvadhu Atoll (GDh),6,2
+2006,Felidhu Atoll (V),Gnaviyani (Gn),6,0
+2006,Felidhu Atoll (V),Addu (S),12,4
+2006,Mulakatholhu (M),Mulakatholhu (M),4315,4315
+2006,Mulakatholhu (M),North Nilandhe Atoll (F),10,18
+2006,Mulakatholhu (M),South Nilandhe Atoll (Dh),24,28
+2006,Mulakatholhu (M),Kolhumadulu (Th),21,27
+2006,Mulakatholhu (M),Hadhdhunmathi (L),40,19
+2006,Mulakatholhu (M),North Huvadhu Atoll (GA),8,6
+2006,Mulakatholhu (M),South Huvadhu Atoll (GDh),8,4
+2006,Mulakatholhu (M),Gnaviyani (Gn),5,8
+2006,Mulakatholhu (M),Addu (S),20,17
+2006,North Nilandhe Atoll (F),North Nilandhe Atoll (F),3471,3471
+2006,North Nilandhe Atoll (F),South Nilandhe Atoll (Dh),11,39
+2006,North Nilandhe Atoll (F),Kolhumadulu (Th),15,4
+2006,North Nilandhe Atoll (F),Hadhdhunmathi (L),13,12
+2006,North Nilandhe Atoll (F),North Huvadhu Atoll (GA),4,3
+2006,North Nilandhe Atoll (F),South Huvadhu Atoll (GDh),37,6
+2006,North Nilandhe Atoll (F),Gnaviyani (Gn),3,0
+2006,North Nilandhe Atoll (F),Addu (S),29,10
+2006,South Nilandhe Atoll (Dh),South Nilandhe Atoll (Dh),4453,4453
+2006,South Nilandhe Atoll (Dh),Kolhumadulu (Th),37,12
+2006,South Nilandhe Atoll (Dh),Hadhdhunmathi (L),16,12
+2006,South Nilandhe Atoll (Dh),North Huvadhu Atoll (GA),8,5
+2006,South Nilandhe Atoll (Dh),South Huvadhu Atoll (GDh),37,7
+2006,South Nilandhe Atoll (Dh),Gnaviyani (Gn),16,0
+2006,South Nilandhe Atoll (Dh),Addu (S),67,12
+2006,Kolhumadulu (Th),Kolhumadulu (Th),8050,8050
+2006,Kolhumadulu (Th),Hadhdhunmathi (L),39,78
+2006,Kolhumadulu (Th),North Huvadhu Atoll (GA),7,9
+2006,Kolhumadulu (Th),South Huvadhu Atoll (GDh),21,9
+2006,Kolhumadulu (Th),Gnaviyani (Gn),14,2
+2006,Kolhumadulu (Th),Addu (S),11,24
+2006,Hadhdhunmathi (L),Hadhdhunmathi (L),11178,11178
+2006,Hadhdhunmathi (L),North Huvadhu Atoll (GA),23,44
+2006,Hadhdhunmathi (L),South Huvadhu Atoll (GDh),30,19
+2006,Hadhdhunmathi (L),Gnaviyani (Gn),26,5
+2006,Hadhdhunmathi (L),Addu (S),38,32
+2006,North Huvadhu Atoll (GA),North Huvadhu Atoll (GA),7691,7691
+2006,North Huvadhu Atoll (GA),South Huvadhu Atoll (GDh),193,174
+2006,North Huvadhu Atoll (GA),Gnaviyani (Gn),23,51
+2006,North Huvadhu Atoll (GA),Addu (S),47,126
+2006,South Huvadhu Atoll (GDh),South Huvadhu Atoll (GDh),10302,10302
+2006,South Huvadhu Atoll (GDh),Gnaviyani (Gn),25,87
+2006,South Huvadhu Atoll (GDh),Addu (S),60,168
+2006,Gnaviyani (Gn),Gnaviyani (Gn),7217,7217
+2006,Gnaviyani (Gn),Addu (S),74,75
+2006,Addu (S),Addu (S),16990,16990
+2014,Male' ,Male' ,53744,53744
+2014,Male' ,North Thiladhunmathi (HA),6015,160
+2014,Male' ,South Thiladhunmathi (HDh),4830,237
+2014,Male' ,North Miladhunmadulu (Sh),3368,107
+2014,Male' ,South Miladhunmadulu (N),3709,137
+2014,Male' ,North Maalhosmadulu (R),5162,152
+2014,Male' ,South Maalhosmadulu (B),3873,164
+2014,Male' ,Faadhippolhu (Lh),3393,121
+2014,Male' ,Male' Atoll (K),2273,908
+2014,Male' ,North Ari Atoll (AA),1587,122
+2014,Male' ,South Ari Atoll (ADh),1929,213
+2014,Male' ,Felidhu Atoll (V),803,44
+2014,Male' ,Mulakatholhu (M),2010,90
+2014,Male' ,North Nilandhe Atoll (F),1157,41
+2014,Male' ,South Nilandhe Atoll (Dh),1783,109
+2014,Male' ,Kolhumadulu (Th),5355,152
+2014,Male' ,Hadhdhunmathi (L),3352,152
+2014,Male' ,North Huvadhu Atoll (GA),4588,108
+2014,Male' ,South Huvadhu Atoll (GDh),6968,165
+2014,Male' ,Gnaviyani (Gn),2412,102
+2014,Male' ,Addu (S),8435,310
+2014,North Thiladhunmathi (HA),North Thiladhunmathi (HA),12373,12373
+2014,North Thiladhunmathi (HA),South Thiladhunmathi (HDh),205,229
+2014,North Thiladhunmathi (HA),North Miladhunmadulu (Sh),44,31
+2014,North Thiladhunmathi (HA),South Miladhunmadulu (N),54,84
+2014,North Thiladhunmathi (HA),North Maalhosmadulu (R),45,68
+2014,North Thiladhunmathi (HA),South Maalhosmadulu (B),21,76
+2014,North Thiladhunmathi (HA),Faadhippolhu (Lh),27,89
+2014,North Thiladhunmathi (HA),Male' Atoll (K),29,708
+2014,North Thiladhunmathi (HA),North Ari Atoll (AA),6,116
+2014,North Thiladhunmathi (HA),South Ari Atoll (ADh),19,206
+2014,North Thiladhunmathi (HA),Felidhu Atoll (V),8,8
+2014,North Thiladhunmathi (HA),Mulakatholhu (M),5,33
+2014,North Thiladhunmathi (HA),North Nilandhe Atoll (F),7,12
+2014,North Thiladhunmathi (HA),South Nilandhe Atoll (Dh),18,77
+2014,North Thiladhunmathi (HA),Kolhumadulu (Th),24,30
+2014,North Thiladhunmathi (HA),Hadhdhunmathi (L),24,27
+2014,North Thiladhunmathi (HA),North Huvadhu Atoll (GA),15,32
+2014,North Thiladhunmathi (HA),South Huvadhu Atoll (GDh),23,28
+2014,North Thiladhunmathi (HA),Gnaviyani (Gn),28,10
+2014,North Thiladhunmathi (HA),Addu (S),42,48
+2014,South Thiladhunmathi (HDh),South Thiladhunmathi (HDh),17202,17202
+2014,South Thiladhunmathi (HDh),North Miladhunmadulu (Sh),169,100
+2014,South Thiladhunmathi (HDh),South Miladhunmadulu (N),66,79
+2014,South Thiladhunmathi (HDh),North Maalhosmadulu (R),85,54
+2014,South Thiladhunmathi (HDh),South Maalhosmadulu (B),35,94
+2014,South Thiladhunmathi (HDh),Faadhippolhu (Lh),37,99
+2014,South Thiladhunmathi (HDh),Male' Atoll (K),27,928
+2014,South Thiladhunmathi (HDh),North Ari Atoll (AA),8,209
+2014,South Thiladhunmathi (HDh),South Ari Atoll (ADh),27,194
+2014,South Thiladhunmathi (HDh),Felidhu Atoll (V),4,18
+2014,South Thiladhunmathi (HDh),Mulakatholhu (M),17,37
+2014,South Thiladhunmathi (HDh),North Nilandhe Atoll (F),8,7
+2014,South Thiladhunmathi (HDh),South Nilandhe Atoll (Dh),21,62
+2014,South Thiladhunmathi (HDh),Kolhumadulu (Th),31,27
+2014,South Thiladhunmathi (HDh),Hadhdhunmathi (L),24,40
+2014,South Thiladhunmathi (HDh),North Huvadhu Atoll (GA),11,41
+2014,South Thiladhunmathi (HDh),South Huvadhu Atoll (GDh),40,41
+2014,South Thiladhunmathi (HDh),Gnaviyani (Gn),19,30
+2014,South Thiladhunmathi (HDh),Addu (S),46,45
+2014,North Miladhunmadulu (Sh),North Miladhunmadulu (Sh),11488,11488
+2014,North Miladhunmadulu (Sh),South Miladhunmadulu (N),54,104
+2014,North Miladhunmadulu (Sh),North Maalhosmadulu (R),134,65
+2014,North Miladhunmadulu (Sh),South Maalhosmadulu (B),30,129
+2014,North Miladhunmadulu (Sh),Faadhippolhu (Lh),38,98
+2014,North Miladhunmadulu (Sh),Male' Atoll (K),18,417
+2014,North Miladhunmadulu (Sh),North Ari Atoll (AA),10,78
+2014,North Miladhunmadulu (Sh),South Ari Atoll (ADh),13,137
+2014,North Miladhunmadulu (Sh),Felidhu Atoll (V),1,14
+2014,North Miladhunmadulu (Sh),Mulakatholhu (M),5,13
+2014,North Miladhunmadulu (Sh),North Nilandhe Atoll (F),5,4
+2014,North Miladhunmadulu (Sh),South Nilandhe Atoll (Dh),6,47
+2014,North Miladhunmadulu (Sh),Kolhumadulu (Th),17,15
+2014,North Miladhunmadulu (Sh),Hadhdhunmathi (L),18,27
+2014,North Miladhunmadulu (Sh),North Huvadhu Atoll (GA),12,25
+2014,North Miladhunmadulu (Sh),South Huvadhu Atoll (GDh),24,9
+2014,North Miladhunmadulu (Sh),Gnaviyani (Gn),8,13
+2014,North Miladhunmadulu (Sh),Addu (S),19,28
+2014,South Miladhunmadulu (N),South Miladhunmadulu (N),9940,9940
+2014,South Miladhunmadulu (N),North Maalhosmadulu (R),89,75
+2014,South Miladhunmadulu (N),South Maalhosmadulu (B),34,80
+2014,South Miladhunmadulu (N),Faadhippolhu (Lh),126,319
+2014,South Miladhunmadulu (N),Male' Atoll (K),28,416
+2014,South Miladhunmadulu (N),North Ari Atoll (AA),15,46
+2014,South Miladhunmadulu (N),South Ari Atoll (ADh),12,136
+2014,South Miladhunmadulu (N),Felidhu Atoll (V),10,10
+2014,South Miladhunmadulu (N),Mulakatholhu (M),29,18
+2014,South Miladhunmadulu (N),North Nilandhe Atoll (F),4,1
+2014,South Miladhunmadulu (N),South Nilandhe Atoll (Dh),7,36
+2014,South Miladhunmadulu (N),Kolhumadulu (Th),31,21
+2014,South Miladhunmadulu (N),Hadhdhunmathi (L),35,34
+2014,South Miladhunmadulu (N),North Huvadhu Atoll (GA),18,21
+2014,South Miladhunmadulu (N),South Huvadhu Atoll (GDh),42,21
+2014,South Miladhunmadulu (N),Gnaviyani (Gn),50,8
+2014,South Miladhunmadulu (N),Addu (S),99,23
+2014,North Maalhosmadulu (R),North Maalhosmadulu (R),14158,14158
+2014,North Maalhosmadulu (R),South Maalhosmadulu (B),54,219
+2014,North Maalhosmadulu (R),Faadhippolhu (Lh),58,161
+2014,North Maalhosmadulu (R),Male' Atoll (K),31,441
+2014,North Maalhosmadulu (R),North Ari Atoll (AA),12,76
+2014,North Maalhosmadulu (R),South Ari Atoll (ADh),12,109
+2014,North Maalhosmadulu (R),Felidhu Atoll (V),7,18
+2014,North Maalhosmadulu (R),Mulakatholhu (M),17,19
+2014,North Maalhosmadulu (R),North Nilandhe Atoll (F),6,12
+2014,North Maalhosmadulu (R),South Nilandhe Atoll (Dh),4,49
+2014,North Maalhosmadulu (R),Kolhumadulu (Th),27,35
+2014,North Maalhosmadulu (R),Hadhdhunmathi (L),16,21
+2014,North Maalhosmadulu (R),North Huvadhu Atoll (GA),19,35
+2014,North Maalhosmadulu (R),South Huvadhu Atoll (GDh),34,13
+2014,North Maalhosmadulu (R),Gnaviyani (Gn),13,16
+2014,North Maalhosmadulu (R),Addu (S),54,36
+2014,South Maalhosmadulu (B),South Maalhosmadulu (B),8437,8437
+2014,South Maalhosmadulu (B),Faadhippolhu (Lh),77,42
+2014,South Maalhosmadulu (B),Male' Atoll (K),46,275
+2014,South Maalhosmadulu (B),North Ari Atoll (AA),20,70
+2014,South Maalhosmadulu (B),South Ari Atoll (ADh),21,99
+2014,South Maalhosmadulu (B),Felidhu Atoll (V),14,5
+2014,South Maalhosmadulu (B),Mulakatholhu (M),14,15
+2014,South Maalhosmadulu (B),North Nilandhe Atoll (F),9,23
+2014,South Maalhosmadulu (B),South Nilandhe Atoll (Dh),8,26
+2014,South Maalhosmadulu (B),Kolhumadulu (Th),32,13
+2014,South Maalhosmadulu (B),Hadhdhunmathi (L),49,17
+2014,South Maalhosmadulu (B),North Huvadhu Atoll (GA),33,18
+2014,South Maalhosmadulu (B),South Huvadhu Atoll (GDh),69,26
+2014,South Maalhosmadulu (B),Gnaviyani (Gn),76,13
+2014,South Maalhosmadulu (B),Addu (S),152,28
+2014,Faadhippolhu (Lh),Faadhippolhu (Lh),7420,7420
+2014,Faadhippolhu (Lh),Male' Atoll (K),66,356
+2014,Faadhippolhu (Lh),North Ari Atoll (AA),24,47
+2014,Faadhippolhu (Lh),South Ari Atoll (ADh),9,100
+2014,Faadhippolhu (Lh),Felidhu Atoll (V),2,11
+2014,Faadhippolhu (Lh),Mulakatholhu (M),12,14
+2014,Faadhippolhu (Lh),North Nilandhe Atoll (F),6,9
+2014,Faadhippolhu (Lh),South Nilandhe Atoll (Dh),3,20
+2014,Faadhippolhu (Lh),Kolhumadulu (Th),24,20
+2014,Faadhippolhu (Lh),Hadhdhunmathi (L),27,23
+2014,Faadhippolhu (Lh),North Huvadhu Atoll (GA),14,22
+2014,Faadhippolhu (Lh),South Huvadhu Atoll (GDh),50,27
+2014,Faadhippolhu (Lh),Gnaviyani (Gn),24,15
+2014,Faadhippolhu (Lh),Addu (S),65,22
+2014,Male' Atoll (K),Male' Atoll (K),9425,9425
+2014,Male' Atoll (K),North Ari Atoll (AA),102,36
+2014,Male' Atoll (K),South Ari Atoll (ADh),123,66
+2014,Male' Atoll (K),Felidhu Atoll (V),67,9
+2014,Male' Atoll (K),Mulakatholhu (M),136,16
+2014,Male' Atoll (K),North Nilandhe Atoll (F),71,19
+2014,Male' Atoll (K),South Nilandhe Atoll (Dh),144,22
+2014,Male' Atoll (K),Kolhumadulu (Th),244,23
+2014,Male' Atoll (K),Hadhdhunmathi (L),253,28
+2014,Male' Atoll (K),North Huvadhu Atoll (GA),187,24
+2014,Male' Atoll (K),South Huvadhu Atoll (GDh),367,22
+2014,Male' Atoll (K),Gnaviyani (Gn),476,12
+2014,Male' Atoll (K),Addu (S),1204,24
+2014,North Ari Atoll (AA),North Ari Atoll (AA),5301,5301
+2014,North Ari Atoll (AA),South Ari Atoll (ADh),89,68
+2014,North Ari Atoll (AA),Felidhu Atoll (V),14,2
+2014,North Ari Atoll (AA),Mulakatholhu (M),33,11
+2014,North Ari Atoll (AA),North Nilandhe Atoll (F),19,7
+2014,North Ari Atoll (AA),South Nilandhe Atoll (Dh),11,10
+2014,North Ari Atoll (AA),Kolhumadulu (Th),20,6
+2014,North Ari Atoll (AA),Hadhdhunmathi (L),38,9
+2014,North Ari Atoll (AA),North Huvadhu Atoll (GA),24,4
+2014,North Ari Atoll (AA),South Huvadhu Atoll (GDh),51,3
+2014,North Ari Atoll (AA),Gnaviyani (Gn),64,6
+2014,North Ari Atoll (AA),Addu (S),174,31
+2014,South Ari Atoll (ADh),South Ari Atoll (ADh),7689,7689
+2014,South Ari Atoll (ADh),Felidhu Atoll (V),38,12
+2014,South Ari Atoll (ADh),Mulakatholhu (M),65,20
+2014,South Ari Atoll (ADh),North Nilandhe Atoll (F),31,12
+2014,South Ari Atoll (ADh),South Nilandhe Atoll (Dh),44,20
+2014,South Ari Atoll (ADh),Kolhumadulu (Th),58,10
+2014,South Ari Atoll (ADh),Hadhdhunmathi (L),80,24
+2014,South Ari Atoll (ADh),North Huvadhu Atoll (GA),34,6
+2014,South Ari Atoll (ADh),South Huvadhu Atoll (GDh),78,14
+2014,South Ari Atoll (ADh),Gnaviyani (Gn),142,3
+2014,South Ari Atoll (ADh),Addu (S),292,15
+2014,Felidhu Atoll (V),Felidhu Atoll (V),1376,1376
+2014,Felidhu Atoll (V),Mulakatholhu (M),5,14
+2014,Felidhu Atoll (V),North Nilandhe Atoll (F),6,2
+2014,Felidhu Atoll (V),South Nilandhe Atoll (Dh),58,6
+2014,Felidhu Atoll (V),Kolhumadulu (Th),7,13
+2014,Felidhu Atoll (V),Hadhdhunmathi (L),12,1
+2014,Felidhu Atoll (V),North Huvadhu Atoll (GA),6,0
+2014,Felidhu Atoll (V),South Huvadhu Atoll (GDh),12,2
+2014,Felidhu Atoll (V),Gnaviyani (Gn),5,0
+2014,Felidhu Atoll (V),Addu (S),15,3
+2014,Mulakatholhu (M),Mulakatholhu (M),4315,4315
+2014,Mulakatholhu (M),North Nilandhe Atoll (F),15,12
+2014,Mulakatholhu (M),South Nilandhe Atoll (Dh),24,47
+2014,Mulakatholhu (M),Kolhumadulu (Th),20,23
+2014,Mulakatholhu (M),Hadhdhunmathi (L),41,15
+2014,Mulakatholhu (M),North Huvadhu Atoll (GA),10,12
+2014,Mulakatholhu (M),South Huvadhu Atoll (GDh),27,11
+2014,Mulakatholhu (M),Gnaviyani (Gn),14,3
+2014,Mulakatholhu (M),Addu (S),18,21
+2014,North Nilandhe Atoll (F),North Nilandhe Atoll (F),3801,3801
+2014,North Nilandhe Atoll (F),South Nilandhe Atoll (Dh),21,37
+2014,North Nilandhe Atoll (F),Kolhumadulu (Th),8,8
+2014,North Nilandhe Atoll (F),Hadhdhunmathi (L),29,12
+2014,North Nilandhe Atoll (F),North Huvadhu Atoll (GA),15,8
+2014,North Nilandhe Atoll (F),South Huvadhu Atoll (GDh),20,35
+2014,North Nilandhe Atoll (F),Gnaviyani (Gn),9,3
+2014,North Nilandhe Atoll (F),Addu (S),20,18
+2014,South Nilandhe Atoll (Dh),South Nilandhe Atoll (Dh),4884,4884
+2014,South Nilandhe Atoll (Dh),Kolhumadulu (Th),59,15
+2014,South Nilandhe Atoll (Dh),Hadhdhunmathi (L),64,25
+2014,South Nilandhe Atoll (Dh),North Huvadhu Atoll (GA),22,8
+2014,South Nilandhe Atoll (Dh),South Huvadhu Atoll (GDh),37,17
+2014,South Nilandhe Atoll (Dh),Gnaviyani (Gn),39,6
+2014,South Nilandhe Atoll (Dh),Addu (S),106,17
+2014,Kolhumadulu (Th),Kolhumadulu (Th),8122,8122
+2014,Kolhumadulu (Th),Hadhdhunmathi (L),123,91
+2014,Kolhumadulu (Th),North Huvadhu Atoll (GA),10,18
+2014,Kolhumadulu (Th),South Huvadhu Atoll (GDh),39,21
+2014,Kolhumadulu (Th),Gnaviyani (Gn),19,9
+2014,Kolhumadulu (Th),Addu (S),46,25
+2014,Hadhdhunmathi (L),Hadhdhunmathi (L),11068,11068
+2014,Hadhdhunmathi (L),North Huvadhu Atoll (GA),28,98
+2014,Hadhdhunmathi (L),South Huvadhu Atoll (GDh),66,37
+2014,Hadhdhunmathi (L),Gnaviyani (Gn),24,20
+2014,Hadhdhunmathi (L),Addu (S),64,57
+2014,North Huvadhu Atoll (GA),North Huvadhu Atoll (GA),7652,7652
+2014,North Huvadhu Atoll (GA),South Huvadhu Atoll (GDh),263,164
+2014,North Huvadhu Atoll (GA),Gnaviyani (Gn),88,27
+2014,North Huvadhu Atoll (GA),Addu (S),124,75
+2014,South Huvadhu Atoll (GDh),South Huvadhu Atoll (GDh),10618,10618
+2014,South Huvadhu Atoll (GDh),Gnaviyani (Gn),86,64
+2014,South Huvadhu Atoll (GDh),Addu (S),133,154
+2014,Gnaviyani (Gn),Gnaviyani (Gn),7454,7454
+2014,Gnaviyani (Gn),Addu (S),130,165
+2014,Addu (S),Addu (S),18133,18133

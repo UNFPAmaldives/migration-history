@@ -1,0 +1,93 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable = no" />
+    <title>delimited | Chord Transitions</title>
+    <link rel="stylesheet" href="../bower_components/foundation/css/foundation.css" />
+    <link rel="stylesheet" type="text/css" href="../css/app.css">
+    <script src="../bower_components/modernizr/modernizr.js"></script>
+    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="../bower_components/angular/angular.min.js"></script>
+  </head>
+  <body ng-app="app" ng-cloak ng-controller="mainCntrl">
+
+    <div class="row">
+      <div class="large-12 columns">
+        <h1>Migration in Maldives <small>(1985 - 2014)</small></h1>
+        <hr/>
+      </div>
+    </div>
+
+    <div class="row" style="position:relative;">
+
+      <aside class="large-2 small-2 columns panel years">
+        <h5>Years</h5>
+        <ul class="side-nav">
+          <li ng-repeat="year in years">
+            <input ng-model="$parent.selected_year" type="radio" name="years" ng-value="year" id="year_{{ year }}">
+            <label for="year_{{ year }}">{{ year }}</label>
+          </li>
+        </ul>
+      </aside>
+
+      <div class="large-7 small-6 columns" role="content">
+        <article>
+          <chord-diagram></chord-diagram>
+          <h6 class="text-center">Internal Migration Flows <span>{{ selected_year }}</span></h6>
+        </article>
+      </div>
+
+      <aside class="large-3 small-4 columns">
+        <h5>Filters</h5>
+        <button class="button tiny right" ng-click="filters = {}; hasFilters = false;">
+          clear
+        </button>
+        <div class="panel">
+          <div ng-if="hasFilters === false" style="margin: 15px; opacity: 0.5;">
+            Click a country
+          </div>
+          <ul class="side-nav">
+            <li ng-repeat="filter in filters">
+              <input ng-model="filter.hide" id="{{ filter.name }}" type="checkbox">
+              <label for="{{ filter.name }}">{{ filter.name }}</label>
+            </li>
+          </ul>
+        </div>
+      </aside>
+
+      <fieldset id="tooltip" class="row secondary">
+        <div class="large-12 small-12 columns">
+          <h6>{{ qFormat(tooltip.svalue) }} migrants from {{ tooltip.tname }} to {{ tooltip.sname }}</h6>
+          {{ pFormat(tooltip.svalue/tooltip.stotal) }} of {{ tooltip.sname }}'s ({{ qFormat(tooltip.stotal) }}) total migrants and
+          {{ pFormat(tooltip.svalue/tooltip.mtotal) }} of all {{ qFormat(tooltip.mtotal) }} internal migrants
+        </div>
+        <div class="large-12 small-12 columns">
+          <h6>{{ qFormat(tooltip.tvalue) }} migrants from {{ tooltip.sname }} to {{ tooltip.tname }}</h6>
+          {{ pFormat(tooltip.tvalue/tooltip.ttotal) }} of {{ tooltip.tname }}'s {{ qFormat(tooltip.ttotal) }} total migrants and
+          {{ pFormat(tooltip.tvalue/tooltip.mtotal) }} of all {{ qFormat(tooltip.mtotal) }} internal migrants
+        </div>
+      </fieldset>
+
+    </div>
+
+    <footer class="row">
+      <div class="large-12 columns">
+        <ul class="inline-list left">
+          <li>Colors by <a target="_blank" href="http://en.wikipedia.org/wiki/Paul_Klee">Paul Klee</a></li>
+          <li>Design by <a target="_blank" href="http://maldives.unfpa.org">UNFPA</a></li>
+          <li>Data from <a target="_blank" href="http://www.statisticsmaldives.gov.mv/census-2014/">2014 Census, NBS</a></li>
+        </ul>
+      </div>
+    </footer>
+
+    <script src="../bower_components/d3/d3.min.js"></script>
+    <script src="../bower_components/foundation/js/foundation.min.js"></script>
+    <script src="../js/mainController.js"></script>
+    <script src="../js/matrixFactory.js"></script>
+    <script src="../js/chordDirective.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
