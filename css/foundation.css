@@ -3388,7 +3388,7 @@ p {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "unfpatext", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "unfpabold", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   color: #2d302f;
